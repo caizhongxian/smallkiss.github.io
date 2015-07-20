@@ -34,8 +34,8 @@ blockquote p {
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="mailto:linear_life@126.com">linear_life@126.com</a>  
 > 微&nbsp;&nbsp;博: <a href="http://weibo.com/2716127547/profile?rightmod=1&wvr=6&mod=personinfo">@MirageEsc</a>  
 > 博&nbsp;&nbsp;客: <a href="http://smallkiss.github.io/">smallkiss</a>  
-> GitHub：[comtu](https://github.com/smallkiss)  
-> CSDN: [comtu](http://my.csdn.net/small_kiss)  
+> GitHub：[smallkiss](https://github.com/smallkiss)  
+> CSDN: [small_kiss](http://my.csdn.net/small_kiss)  
 > ....
 
 ---
