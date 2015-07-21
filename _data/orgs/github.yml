@@ -1,10 +1,10 @@
 
-name: Github
+name: Git
 icon: fa fa-github-alt
 members:
-  - name: smallkiss account
+  - name:Git@Osc smallkiss
     notnewblank: false
-    link: http://github.com/smallkiss
+    link: https://git.oschina.net/smallkiss
 
   - name: smallkiss's blog
     notnewblank: true
