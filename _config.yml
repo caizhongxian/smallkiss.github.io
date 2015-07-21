@@ -22,7 +22,7 @@ blog:
     description: Sharp your mind!                        # 博客描述
     title: Ctzl Z Day!                                   # 网页标题
     url: http://smallkiss.github.io/                     # 博客地址
-    duoshuo: MirageEsc                                   # 多说ID 
+    duoshuo: smallkiss                                   # 多说ID 
     tongji: b5f3587ab75d11d6b0504e27e644ec2d             # 百度统计ID
     clickiTongJi: 0					 												     # Clicki统计ID
     qiniu:                                               # 七牛云地址
