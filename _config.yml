@@ -18,7 +18,7 @@ shTheme: shThemeDefault # shThemeDefault  shThemeDjango  shThemeEclipse  shTheme
 #SyntaxHihglighter config end
 
 blog:
-    name: __E sc__./                                     # 博客名称
+    name: smallkiss                                      # 博客名称
     description: Sharp your mind!                        # 博客描述
     title: Ctzl Z Day!                                   # 网页标题
     url: http://smallkiss.github.io/                     # 博客地址
@@ -27,7 +27,7 @@ blog:
     clickiTongJi: 0					 												     # Clicki统计ID
     qiniu:                                               # 七牛云地址
 author:
-    name: __E sc__./                                     # 作者名称
+    name: smallkiss                                      # 作者名称
     email: smallkiss@139.com                             # 邮箱地址
     weibo: http://weibo.com/2716127547/profile?rightmod=1&wvr=6&mod=personinfo                        # 微博地址
     github: https://github.com/smallkiss                 # GitHub地址
