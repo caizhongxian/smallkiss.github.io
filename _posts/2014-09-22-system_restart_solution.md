@@ -12,4 +12,5 @@ tags : [操作系统]
 运行----输入gpedit.msc---打开组策略，计算机配置--管理模板--Windows组件---Windows Update中找"对于已登录的用户，计划的自动更新安装不执行重新启动",双击,设置选"已启用",确定。
 
 **解决方案**
+
 	![pygments-autumn](/res/img/blog/2014/9/22/system_restart.png)  
