@@ -13,4 +13,5 @@ tags : [操作系统]
 
 **解决方案**
 
+
 	![pygments-autumn](/res/img/blog/2014/9/22/system_restart.png)  
