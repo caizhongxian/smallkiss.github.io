@@ -22,6 +22,3 @@ members:
 
   - name: bitbucket
     link: https://bitbucket.org/
-
-  - name: qiniu
-    link: https://portal.qiniu.com/
