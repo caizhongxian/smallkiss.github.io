@@ -29,13 +29,12 @@ blockquote p {
 
 
 
-> 网名: __E sc__./   
+> 网名: smallkiss   
 > Email: <a href="mailto:smallkiss@139.com">smallkiss@139.com</a><br />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="mailto:linear_life@126.com">linear_life@126.com</a>  
-> 微&nbsp;&nbsp;博: <a href="http://weibo.com/2716127547/profile?rightmod=1&wvr=6&mod=personinfo">@MirageEsc</a>  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="mailto:linear_life@126.com">linear_life@126.com</a>   
 > 博&nbsp;&nbsp;客: <a href="http://smallkiss.github.io/">smallkiss</a>  
+> Git@OSC: <a href="http://git.oschina.net/smallkiss">@smallkiss</a>  
 > GitHub：[smallkiss](https://github.com/smallkiss)  
-> CSDN: [small_kiss](http://my.csdn.net/small_kiss)  
 > ....
 
 ---
