@@ -2,16 +2,31 @@ name: 工具
 icon: fa fa-wrench
 members:
 
-  - name: Unix时间戳在线转换工具
-    link: http://tools.sharejs.com/unixtime.html
+  - name: 常用API文档索引
+    link: http://tool.oschina.net/apidocs
 
   - name: RGB颜色查询对照表
     link: http://www.114la.com/other/rgb.htm
 
-  - name: Font Awesome
-    link: http://fontawesome.io/
+  - name: 正则表达式测试
+    link: http://tool.oschina.net/regex
 
   - name: emoji
     link: http://emoji.muan.co/#
+    
+  - name: 进制转换
+    link: http://tool.oschina.net/hexconvert
+    
+  - name: Json代码格式化
+    link: http://tool.oschina.net/codeformat/json
+    
+  - name: markdown编辑器
+    link: http://tool.oschina.net/markdown
+    
+  - name: XML代码格式化
+    link: http://tool.oschina.net/codeformat/xml
+    
+  - name: 常用对照表
+    link: http://tool.oschina.net/commons
 
  
