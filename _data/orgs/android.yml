@@ -4,5 +4,10 @@ icon: fa fa-android
 members:
 
   - name: Android SDK
-    link: http://developer.android.com/tools/sdk/tools-notes.html
+    link: http://tool.oschina.net/apidocs/apidoc?api=android/reference
+    
+  - name: EasyIcon
+    link: http://www.easyicon.net/
+    
+  
 
