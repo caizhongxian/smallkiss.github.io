@@ -74,3 +74,49 @@ quick是快速格式化的意思。
 下图使用一个多版本的windows7做范例。
 
 	![diskpart9](/res/img/blog/2014/11/17/pic9.png)
+	
+10. 要将E盘内的install.wim部署到vhd的F盘上，需要使用image.exe工具，此工具是在微软的一套Windows自动化安装套件(Windows AIK)内，具体下载请查
+阅网络，部署方式如下：
+
+	imagex.exe /apply e:\sources\install.wim 1 f:\
+	![diskpart10](/res/img/blog/2014/11/17/pic10.png)
+	
+11. 如果使用光盘方式来部署，可能需要花费一些时间，将install.wim部署到vhd,最后剩下BCDboot的开机项目设定，利用下述指令来复制一个开机选项，复制
+成功后会得到类似{b9b6cb92-4900-11e2-a8af-c520e488c4ad}的ID。
+
+	BCDEDIT /copy {current} /D “Windows 7″
+	![diskpart11](/res/img/blog/2014/11/17/pic11.png)
+	
+12. 利用此ID修改启动项目，请务必使用你得到的ID依照如下顺序做修改动作，最后的timeout是调整选项单出现停留的时间。
+
+	BCDEDIT /set {b9b6cb92-4900-11e2-a8af-c520e488c4ad} device vhd=[C:]\win7.vhd
+	BCDEDIT /set {b9b6cb92-4900-11e2-a8af-c520e488c4ad} osdevice vhd=[C:]\win7.vhd
+	BCDEDIT /set {b9b6cb92-4900-11e2-a8af-c520e488c4ad} detecthal on
+	BCDEDIT /timeout 10
+	![diskpart12](/res/img/blog/2014/11/17/pic12.png)
+	
+13. 再次进入diskpart模式来中断连接部署的vhd，命令如下：
+
+	diskpart
+	select vdisk file="c:\win7.vhd"
+	detach vdisk
+	exit
+	![diskpart13](/res/img/blog/2014/11/17/pic13.png)
+	
+14. 快捷键「win」+「R」开启运行，输入「MSConfig.exe」,确定，选择开机标签页，如图所示：
+
+	![diskpart14](/res/img/blog/2014/11/17/pic14.png)
+	
+15. 重启计算机，出现如图
+	
+	![diskpart15](/res/img/blog/2014/11/17/pic15.png)
+	
+16. 接下来，熟不熟悉，ha！
+	
+	![diskpart16](/res/img/blog/2014/11/17/pic16.png)
+	
+17. 再接下来，你懂的哟，新仔相信你可以搞定的。
+
+	![diskpart17](/res/img/blog/2014/11/17/pic17.png)
+	
+
