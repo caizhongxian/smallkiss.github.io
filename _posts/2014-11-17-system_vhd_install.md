@@ -44,7 +44,7 @@ tags : [操作系统 , VHD]
 	create vdisk file="c:\win7.vhd" maximun=20480 type=fixed
 	<pre>
 
-	![diskpart3](/res/img/blog/2014/11/17/pic3.png)
+![diskpart3](/res/img/blog/2014/11/17/pic3.png)
 	
 4. 使用select vdisk来选择运作的vhd，接着使用attach vdisk来挂载虚拟硬盘。
 
@@ -53,7 +53,7 @@ tags : [操作系统 , VHD]
 	attach vdisk
 	<pre>
 
-	![diskpart4](/res/img/blog/2014/11/17/pic4.png)
+![diskpart4](/res/img/blog/2014/11/17/pic4.png)
 	
 5. 使用「Create Partition」对虚拟磁盘进行分割，使用「Format」指令进行格式化，其中FS指格式化的档案格式，LABEL是虚拟磁盘的名称，
 quick是快速格式化的意思。
@@ -63,4 +63,4 @@ quick是快速格式化的意思。
 	Format  FS=ntfs LABEL="Win7 VHD" quick
 	<pre>
 
-	![diskpart5](/res/img/blog/2014/11/17/pic5.png)
+![diskpart5](/res/img/blog/2014/11/17/pic5.png)
