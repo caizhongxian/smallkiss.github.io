@@ -19,7 +19,7 @@ tags : [操作系统 , VHD]
 
 >本文简要说明如何在Windows8操作系统下利用VHD搭载Windows7，如图示效果：
 
-![system_pic](/res/img/blog/2014/11/17/pic1.png)
+	![system_pic](/res/img/blog/2014/11/17/pic1.png)
 
 **Windows8/8.1系统利用VHD安装Windows7系统需满足：**
 
@@ -55,3 +55,22 @@ quick是快速格式化的意思。
 	Create Partition Primary
 	Format  FS=ntfs LABEL="Win7 VHD" quick
 	![diskpart5](/res/img/blog/2014/11/17/pic5.png)
+
+6. assign指令是为你的vhd分区命名(例如C:/F:),同时，系统会提示相关信息
+
+	![diskpart6](/res/img/blog/2014/11/17/pic6.png)
+	
+7. assign指令执行后，检查磁盘分区变化，如图，可以看到
+
+	![diskpart7](/res/img/blog/2014/11/17/pic7.png)
+	
+8. 之后要确定你windows7的sources来源，因为在windows8/8.1上可以轻松的挂载ISO系统镜像文件，进入windows7系统sources目录，install.wim即为
+我们要找的东西。Do you get it?
+	
+	![diskpart8](/res/img/blog/2014/11/17/pic8.png)
+	
+9. 在部署Windows7致vhd时，需要清楚你windows7系统的索引值，如果你是在网络上下载的整合多种版本的ISO镜像，需要执行
+命令「DISM /get-wiminfo /wimfile:C:\install.wim」来确定要部署的版本索引值，(e是系统镜像盘的根目录,可能与你实际操作不同，请注意。)
+下图使用一个多版本的windows7做范例。
+
+	![diskpart9](/res/img/blog/2014/11/17/pic9.png)
