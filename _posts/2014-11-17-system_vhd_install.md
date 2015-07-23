@@ -31,10 +31,36 @@ tags : [操作系统 , VHD]
 ##Windows 8/8.1系统安裝VHD的Windows 7操作(以C盘做介绍)
 
 1. 快捷键「win」+「x」,以系统管理员权限进入cmd
-2. 使用Diskpart取代原先的「Fdisk」处理磁碟管理，该功能强大，支持脚本运行，在命令行输入「diskpart」，回车，进入diskpart
+2. 使用Diskpart取代原先的「Fdisk」处理磁碟管理，该功能强大，支持脚本运行，在命令行输入「diskpart」，回车，进入diskpart 
 
-	![diskpart](/res/img/blog/2014/11/17/pic2.png)
-3. 在diskpart模式下，使用create命令在C盘建立一个20G固定大小VHD
+	![diskpart1](/res/img/blog/2014/11/17/pic2.png)
+	
+3. 在diskpart模式下，使用create命令在C盘建立一个20G固定大小VHD,create后的vdisk表示要建立的虚拟硬盘，file后虚拟磁盘的路径
+而type可以是expandable（动态扩展）或者fixed（固定容量）。使用固定容量会依照设定直接划分一块区域分配给磁盘映像使用，优点是
+存取效能最好，一般采用expandable(动态扩展)方式，此方式能够节省帮助你节省硬盘空间，最后参数maximum是指定容量大小，单位为MB，
+例如下面此例：
 
+	<pre class="brush: c; ">
+	create vdisk file="c:\win7.vhd" maximun=20480 type=fixed
+	<pre>
 
+	![diskpart2](/res/img/blog/2014/11/17/pic3.png)
+	
+4. 使用select vdisk来选择运作的vhd，接着使用attach vdisk来挂载虚拟硬盘。
 
+	<pre class="brush: c; ">
+	select vdisk file="c:\win7.vhd"
+	attach vdisk
+	<pre>
+
+	![diskpart2](/res/img/blog/2014/11/17/pic4.png)
+	
+5. 使用「Create Partition」对虚拟磁盘进行分割，使用「Format」指令进行格式化，其中FS指格式化的档案格式，LABEL是虚拟磁盘的名称，
+quick是快速格式化的意思。
+
+	<pre class="brush: c; ">
+	Create Partition Primary
+	Format  FS=ntfs LABEL="Win7 VHD" quick
+	<pre>
+
+	![diskpart2](/res/img/blog/2014/11/17/pic5.png)
