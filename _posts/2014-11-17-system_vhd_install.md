@@ -19,7 +19,7 @@ tags : [操作系统 , VHD]
 
 本文简要说明如何在Windows8操作系统下利用VHD搭载Windows7，如图示效果：
 
-	![system_pic](/res/img/blog/2014/11/17/pic1.png)
+![system_pic](/res/img/blog/2014/11/17/pic1.png)
 
 **Windows8/8.1系统利用VHD安装Windows7系统需满足：**
 
