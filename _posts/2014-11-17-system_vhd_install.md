@@ -17,7 +17,7 @@ tags : [操作系统 , VHD]
 
 <!-- more -->
 
->本文简要说明如何在Windows8操作系统下利用VHD搭载Windows7，如图示效果：
+本文简要说明如何在Windows8操作系统下利用VHD搭载Windows7，如图示效果：
 
 	![system_pic](/res/img/blog/2014/11/17/pic1.png)
 
@@ -118,5 +118,7 @@ quick是快速格式化的意思。
 17. 再接下来，你懂的哟，新仔相信你可以搞定的。
 
 	![diskpart17](/res/img/blog/2014/11/17/pic17.png)
+	
+**原文链接**[http://walker-a.com/archives/3003](http://walker-a.com/archives/3003)
 	
 
