@@ -10,7 +10,7 @@ shTheme: shThemeMidnight # shThemeDefault  shThemeDjango  shThemeEclipse  shThem
 ---
 
 		不知道你们在Android开发中是否遇到Android空指针异常NullPointerException相关
-问题，引发此类异常的可能性较多，常规的错误如下：
+	问题，引发此类异常的可能性较多，常规的错误如下：
 
 <!-- more -->
 
