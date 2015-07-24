@@ -119,6 +119,6 @@ quick是快速格式化的意思。
 
 	![diskpart17](/res/img/blog/2014/11/17/pic17.png)
 	
-**原文链接**[http://walker-a.com/archives/3003](http://walker-a.com/archives/3003)
+>**	原文链接**[http://walker-a.com/archives/3003](http://walker-a.com/archives/3003)
 	
 
