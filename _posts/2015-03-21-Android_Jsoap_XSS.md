@@ -9,20 +9,20 @@ SyntaxHihglighter: true
 shTheme: shThemeMidnight # shThemeDefault  shThemeDjango  shThemeEclipse  shThemeEmacs  shThemeFadeToGrey  shThemeMidnight  shThemeRDark
 ---
 
-###问题：
+###问题：###
 
 		在做网站的时候，经常会提供用户评论的功能,有些不怀好意的用户,会搞一些脚本到评论内容中，而这些脚本可能会破坏整个
 	页面的行为，更严重的是获取一些机要信息，此时需要清理该HTML，以避免跨站脚本cross-site scripting攻击（XSS）。
 
 <!-- more -->
 
->**方法**
+**方法**
 
 		使用jsoup HTML Cleaner 方法进行清除，但需要指定一个可配置的 Whitelist。
 		
    ![picture1](/res/img/blog/2015/03/21/pic1.png)
 
->**说明**
+**说明**
 		
 		XSS又叫CSS (Cross Site Script) ，跨站脚本攻击。它指的是恶意攻击者往Web页面里插入恶意html代码，当用户浏览
 	该页之时，嵌入其中Web里面的html代码会被执行，从而达到恶意攻击用户的特殊目的。XSS属于被动式的攻击，因为其被
