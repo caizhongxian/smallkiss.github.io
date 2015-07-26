@@ -11,8 +11,9 @@ shTheme: shThemeMidnight # shThemeDefault  shThemeDjango  shThemeEclipse  shThem
 
 ###问题：###
 
-		在做网站的时候，经常会提供用户评论的功能,有些不怀好意的用户,会搞一些脚本到评论内容中，而这些脚本可能会破坏整个
-	页面的行为，更严重的是获取一些机要信息，此时需要清理该HTML，以避免跨站脚本cross-site scripting攻击（XSS）。
+		在做网站的时候，经常会提供用户评论的功能,有些不怀好意的用户,会搞一些脚本到评论内容中，而这些脚本可能会
+	破坏整个页面的行为，更严重的是获取一些机要信息，此时需要清理该HTML，以避免跨站脚本cross-site 
+	scripting攻击（XSS）。
 
 <!-- more -->
 
