@@ -44,7 +44,7 @@ blockquote p {
    + **CMMB数字广播信号测试与分析软件**
 
 	项目来源：国家重大科学仪器设备开发专项项目——高性能微波频谱分析仪研制与应用开发。
-	项目介绍：CMMB数字广播信号测试与分析软件
+	项目介绍：**CMMB数字广播信号测试与分析软件**
 	项目成果：
 	项目链接：
 	
@@ -53,7 +53,7 @@ blockquote p {
 	项目来源：导师项目
 	项目介绍：
 	项目成果：
-	项目链接：[http://smallkiss.github.io/blog/2015/07/27/Project_CMMB.html](http://smallkiss.github.io/blog/2015/07/27/Project_CMMB.html)
+	项目链接：
 	
 ---
 
