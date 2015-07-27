@@ -43,20 +43,17 @@ blockquote p {
 
    + **CMMB数字广播信号测试与分析软件**
 
-	项目来源：国家重大科学仪器设备开发专项项目——高性能微波频谱分析仪研制与应用开发。
-	项目介绍：CMMB数字广播信号测试与分析软件
-	项目成果：
-   - 科技部监理验收通过
-   - 中国电子科技集团第41研究所监理验收通过
-   - 项目中期申请成功软件著作权《数字广播信号功率谱测量与分析软件》
-	项目链接：
+	项目来源: 国家重大科学仪器设备开发专项项目——高性能微波频谱分析仪研制与应用开发。
+	项目介绍: CMMB数字广播信号测试与分析软件
+	项目成果:
+  项目链接: [http://smallkiss.github.io/blog/2015/07/27/Project_CMMB.html](http://smallkiss.github.io/blog/2015/07/27/Project_CMMB.html)
 	
    + **智能消防疏散管理系统**
 
-	项目来源：导师项目
-	项目介绍：
-	项目成果：
-	项目链接：
+	项目来源: 导师项目
+	项目介绍:
+	项目成果:
+	项目链接: [http://smallkiss.github.io/blog/2015/07/27/Project_FireSystem.html](http://smallkiss.github.io/blog/2015/07/27/Project_FireSystem.html)
 	
 ---
 
@@ -64,10 +61,10 @@ blockquote p {
 
    + **CSDN Blog**
    
-	项目来源：业余兴趣，尝试
-	项目介绍：
-	项目成果：
-	项目链接：
+	项目来源: 业余兴趣，尝试
+	项目介绍: 
+	项目成果: 
+	项目链接: [http://smallkiss.github.io/blog/2015/07/27/Project_CSDN.html](http://smallkiss.github.io/blog/2015/07/27/Project_CSDN.html)
 	
 ---
 
