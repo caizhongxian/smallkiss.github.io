@@ -1,6 +1,6 @@
 ---
 layout : post
-title : "hdu1016(素数环)(深度优先搜索)"
+title : "智能消防疏散管理系统"
 category : 工程项目
 duoshuo: true
 date : 2015-07-27

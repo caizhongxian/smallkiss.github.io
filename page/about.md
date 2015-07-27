@@ -53,7 +53,7 @@ blockquote p {
 	项目来源：导师项目
 	项目介绍：
 	项目成果：
-	项目链接：
+	项目链接：[http://smallkiss.github.io/blog/2015/07/27/Project_CMMB.html](http://smallkiss.github.io/blog/2015/07/27/Project_CMMB.html)
 	
 ---
 
