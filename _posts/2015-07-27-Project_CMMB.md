@@ -9,16 +9,8 @@ SyntaxHihglighter: true
 shTheme: shThemeMidnight # shThemeDefault  shThemeDjango  shThemeEclipse  shThemeEmacs  shThemeFadeToGrey  shThemeMidnight  shThemeRDark
 ---
 
-###目录###
-
-+ 1. 项目概述
-	- 1.1 任务简介
-	- 1.2 开发背景
-	- 1.3 主要功能
-	- 1.4 作用及意义
-+ 2. 项目总体方案
-	- 2.1 软件开发平台
-	- 2.2 软件运行平台
-	
----
-
+###项目概况###
+		
+		为实现对数字广播电视信号传输质量的测试与分析，本项目利用信号发射机、频谱仪、计算机等相关设备对其进行测量。
+广播电视信号输入到频谱仪进行数据采集后可通过LAN接口将结果送到计算机，计算机对时域IQ数据进行分析。可以实现发
+射功率测试、信道功率及ACP测试、频谱发射模板测试、调制精度测试等功能。
