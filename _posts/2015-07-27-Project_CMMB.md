@@ -9,68 +9,16 @@ SyntaxHihglighter: true
 shTheme: shThemeMidnight # shThemeDefault  shThemeDjango  shThemeEclipse  shThemeEmacs  shThemeFadeToGrey  shThemeMidnight  shThemeRDark
 ---
 
-**hdu1016链接地址**[http://acm.hdu.edu.cn/showproblem.php?pid=1016](http://acm.hdu.edu.cn/showproblem.php?pid=1016)
+###目录###
 
-<!-- more -->
-
-<pre class="brush: c; ">
-	#include&lt;iostream&gt;
-	#include&lt;cstdio&gt;
-	#include&lt;cstdlib&gt;
-
-	using namespace std;
-	#define N 41
-
-	int store[N];
-	int visited[N];
-	bool is_prime(int n);
-	void DFS(int k,int n);
++ 1. 项目概述
+	- 1.1 任务简介
+	- 1.2 开发背景
+	- 1.3 主要功能
+	- 1.4 作用及意义
++ 2. 项目总体方案
+	- 2.1 软件开发平台
+	- 2.2 软件运行平台
 	
-	int main()
-	{
-	    int n,times=0;
-	    while(~scanf("%d",&n))
-	    {
-	        memset(visited,0,sizeof(visited));
-	        visited[1]=1;
-	        store[1]=1;
-	        printf("Case %d:\n",++times);
-	        DFS(2,n);
-	        printf("\n");
-	    }
-	    //system("pause");
-	    return 0;
-	}
-	bool is_prime(int n)
-	{
-	     int i;
-	     for(i=2;i*i<=n;i++)
-	     if(!(n%i))return false;
-	     return true;
-	}
-	void DFS(int k,int n)
-	{
-	     int i,j;
-	     for(i=2;i<=n;i++)
-	     {
-	         if(visited[i])continue;
-	         store[k]=i;
-	         if(is_prime(store[k-1]+store[k]))
-	         {
-	             if(k==n&&is_prime(store[k]+1))
-	             {
-	                 for(j=1;j<=n;j++)
-	                 {
-	                    if(j!=n)printf("%d ",store[j]);
-	                    else printf("%d\n",store[n]);
-	                 }
-	                 return ;
-	             }
-	             visited[i]=1;
-	             DFS(k+1,n);
-	             visited[i]=0;
-	         }
-	     }
-	}
-</pre>
+---
 
