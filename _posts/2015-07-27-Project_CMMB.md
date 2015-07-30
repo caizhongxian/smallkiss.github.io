@@ -10,12 +10,10 @@ shTheme: shThemeMidnight # shThemeDefault  shThemeDjango  shThemeEclipse  shThem
 ---
 
 
-**这是几个月以来,我们团队利用Git协作开发的成果,在这里，由衷的对团队开发成员TroyHorse,wangmumu806(姓名就不透露了，大家都懂的)表示敬意，没有他们，仅靠一人之力无法完成这么庞大的工程，大家都是好样的。
+>这是几个月以来,我们团队利用Git协作开发的成果,在这里，由衷的对团队开发成员TroyHorse,
+>wangmumu806(姓名就不透露了，大家都懂的)表示敬意，没有他们，仅靠一人之力无法完成这么庞大的工程，大家都是好样的。
 
 ![project_work_flow](/res/img/blog/2015/05/23/project_work_flow.png)
-
-
----
 
 		好了，言归正传，来谈谈这个项目。
 
