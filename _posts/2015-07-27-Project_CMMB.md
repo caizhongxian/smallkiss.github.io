@@ -20,16 +20,16 @@ shTheme: shThemeMidnight # shThemeDefault  shThemeDjango  shThemeEclipse  shThem
 
 **IQ幅值波形**
 
-	![pic1](/res/img/blog/2015/05/23/pic1.png)
+![pic1](/res/img/blog/2015/05/23/pic1.png)
 	
 **邻道功率比**
 
-	![pic2](/res/img/blog/2015/05/23/pic2.png)
+![pic2](/res/img/blog/2015/05/23/pic2.png)
 	
 **占用带宽**
 
-	![pic3](/res/img/blog/2015/05/23/pic3.png)
+![pic3](/res/img/blog/2015/05/23/pic3.png)
 	
 ###这是几个月以来,我们团队利用Git协作开发的成果，值得骄傲。
 
-	![project_work_flow](/res/img/blog/2015/05/23/project_work_flow.png)
+![project_work_flow](/res/img/blog/2015/05/23/project_work_flow.png)
