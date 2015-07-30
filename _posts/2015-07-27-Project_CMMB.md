@@ -9,6 +9,18 @@ SyntaxHihglighter: true
 shTheme: shThemeMidnight # shThemeDefault  shThemeDjango  shThemeEclipse  shThemeEmacs  shThemeFadeToGrey  shThemeMidnight  shThemeRDark
 ---
 
+
+**这是几个月以来,我们团队利用Git协作开发的成果,在这里，由衷的对团队开发成员TroyHorse,wangmumu806(姓名就不透露了，大家都懂的)表示敬意，没有他们，仅靠一人之力无法完成这么庞大的工程，大家都是好样的。
+
+![project_work_flow](/res/img/blog/2015/05/23/project_work_flow.png)
+
+
+---
+
+		好了，言归正传，来谈谈这个项目。
+
+<!-- more -->
+
 ###项目概况
 		为实现对数字广播电视信号传输质量的测试与分析，本项目利用信号发射机、频谱仪、计算机等相关设备对其进行测量。
 	广播电视信号输入到频谱仪进行数据采集后可通过LAN接口将结果送到计算机，计算机对时域IQ数据进行分析。可以实现发
@@ -29,7 +41,7 @@ shTheme: shThemeMidnight # shThemeDefault  shThemeDjango  shThemeEclipse  shThem
 **占用带宽**
 
 ![pic3](/res/img/blog/2015/05/23/pic3.png)
-	
-###这是几个月以来,我们团队利用Git协作开发的成果，值得骄傲。
 
-![project_work_flow](/res/img/blog/2015/05/23/project_work_flow.png)
+---
+	
+
