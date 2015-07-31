@@ -9,9 +9,13 @@ SyntaxHihglighter: true
 shTheme: shThemeMidnight # shThemeDefault  shThemeDjango  shThemeEclipse  shThemeEmacs  shThemeFadeToGrey  shThemeMidnight  shThemeRDark
 ---
 
-**未完**
+持续更新中
 
 <!-- more -->
+
+![project](/res/img/blog/2015/07/27/project.png)
+
+
 
 
 
