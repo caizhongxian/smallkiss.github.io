@@ -56,7 +56,7 @@ blockquote p {
 
 **项目链接:** [CMMB数字广播信号测试与分析软件](http://smallkiss.github.io/blog/2015/07/27/Project_CMMB.html)
 
-**项目成果:** 目前已申请一份软件著作权和一份发明专利(已获受理)
+**项目成果:** 目前已申请一份**软件著作权**和一份**发明专利**(已获受理)
 
 ![软件著作权和发明专利电子版](/res/img/blog/about/patents.png)
 
@@ -90,4 +90,7 @@ blockquote p {
 
 ---
 
+# 个人获奖
+
+---
 {% if page.duoshuo != false %}{% include duoshuo.html %}{% endif %}
