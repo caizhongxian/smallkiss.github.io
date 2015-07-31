@@ -17,7 +17,7 @@ shTheme: shThemeMidnight # shThemeDefault  shThemeDjango  shThemeEclipse  shThem
 下面这张图是我们团队在项目开发过程中，利用版本控制系统针对此项目的一个记录，算作我们辛勤劳动的一个见证吧。
 还请大家在看的时候可以耐心点，不强求，可以直接拖到底，毕竟还有一个read more，重点不能落下 ^_^ 。
 		
-![project_work_flow](/res/img/blog/2015/05/23/project_work_flow.png)
+	![project_work_flow](/res/img/blog/2015/05/23/project_work_flow.png)
 
 <!-- more -->
 
@@ -28,7 +28,7 @@ shTheme: shThemeMidnight # shThemeDefault  shThemeDjango  shThemeEclipse  shThem
 为实现对数字广播电视信号传输质量的测试与分析，本项目利用信号发生器、信号分析仪、测试电缆、计算机等相关设备对信号发生器产生的
 原始IQ数据进行获取、分析和输出显示，并与信号分析仪同步进行比较，验证其正确性。如下图所示：
 
-![原理图](/res/img/blog/2015/05/23/IQ_Analyse.png)
+	![原理图](/res/img/blog/2015/05/23/IQ_Analyse.png)
 
 ---
 
@@ -39,7 +39,7 @@ shTheme: shThemeMidnight # shThemeDefault  shThemeDjango  shThemeEclipse  shThem
 幅度时间图，IQ时间图等。本地计算机通过网线与主机(信号分析仪)连接，通过编写的**网络传输工具软件(按照SCPI协议)**将原始IQ数据保
 存在本地计算机，供本机软件进行IQ分析测试，并与实际信号分析仪分析结果进行对比，验证其正确性。
 
-![IQ分析原理图](/res/img/blog/2015/05/23/pic5.png)
+	![IQ分析原理图](/res/img/blog/2015/05/23/pic5.png)
 
 **与中国电子科技集团第41研究所第一次联调结果**
 通过与**中国电子科技集团公司第41研究所**第一次联调测试，本项目软件成功实现了对IQ时域数据功率分析方面的测试，包括:频谱检测，通道
@@ -52,11 +52,11 @@ shTheme: shThemeMidnight # shThemeDefault  shThemeDjango  shThemeEclipse  shThem
 
 * ###功率分析模块预期目标(注:由于涉及一些机密信息，配图略显简单，实际流程很复杂，相信我)
 
-![功率分析](/res/img/blog/2015/05/23/power_analyse.png)
+	![功率分析](/res/img/blog/2015/05/23/power_analyse.png)
 
 * ###调制精度测量预期目标(注:同上)
 		
-![调制精度测量](/res/img/blog/2015/05/23/demodulation.png)
+	![调制精度测量](/res/img/blog/2015/05/23/demodulation.png)
 	 
 ---
 
@@ -64,21 +64,21 @@ shTheme: shThemeMidnight # shThemeDefault  shThemeDjango  shThemeEclipse  shThem
 
 **IQ幅值波形**
 
-![pic1](/res/img/blog/2015/05/23/pic1.png)
+	![pic1](/res/img/blog/2015/05/23/pic1.png)
 	
 **邻道功率比**
 
-![pic2](/res/img/blog/2015/05/23/pic2.png)
+	![pic2](/res/img/blog/2015/05/23/pic2.png)
 	
 **占用带宽**
 
-![pic3](/res/img/blog/2015/05/23/pic3.png)
+	![pic3](/res/img/blog/2015/05/23/pic3.png)
 
 ---
 
 **项目质量分析**
 
-![代码质量分析](/res/img/blog/2015/05/23/analyse.png)
+	![代码质量分析](/res/img/blog/2015/05/23/analyse.png)
 
 ---
 **未完**
