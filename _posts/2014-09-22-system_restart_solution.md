@@ -14,4 +14,5 @@ tags : [操作系统]
 <!-- more -->
 
 **解决方案**
-	![pygments-autumn](/res/img/blog/2014/9/22/system_restart.png)  
+
+![pygments-autumn](/res/img/blog/2014/9/22/system_restart.png)  

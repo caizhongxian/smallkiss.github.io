@@ -39,6 +39,10 @@ blockquote p {
 
 ---
 
+> [给我一个机会 ，我可以做的更好。](/)
+
+---
+
 # 项目经验
 
 <hr id="line"/>
@@ -46,24 +50,26 @@ blockquote p {
 
 **CMMB数字广播信号测试与分析软件**
 
-项目来源: 国家重大科学仪器设备开发专项项目——高性能微波频谱分析仪研制与应用开发。
+**项目来源:** 国家重大科学仪器设备开发专项项目——高性能微波频谱分析仪研制与应用开发。
 
-项目介绍: CMMB数字广播信号测试与分析软件
+**项目介绍:** CMMB数字广播信号测试与分析软件
 
-项目成果:
+**项目链接:** [CMMB数字广播信号测试与分析软件](http://smallkiss.github.io/blog/2015/07/27/Project_CMMB.html)
 
-项目链接: [CMMB数字广播信号测试与分析软件](http://smallkiss.github.io/blog/2015/07/27/Project_CMMB.html)
-	
+**项目成果:** 目前已申请一份软件著作权和一份发明专利(已获受理)
+
+![软件著作权和发明专利电子版](/res/img/blog/about/patents.png)
+
 **智能消防疏散管理系统**
 
-项目来源: 导师项目
+**项目来源:** 导师项目
 
-项目介绍:
+**项目介绍:**
 
-项目成果:
+**项目地址:** [智能消防疏散管理系统](http://smallkiss.github.io/blog/2015/07/27/Project_FireSystem.html)
 
-项目地址: [智能消防疏散管理系统](http://smallkiss.github.io/blog/2015/07/27/Project_FireSystem.html)
-	
+**项目成果:**
+
 ---
 
 # 个人项目
@@ -74,17 +80,13 @@ blockquote p {
 
 **CSDN Blog**
    
-项目来源: 业余兴趣，尝试
+**项目来源:** 业余兴趣，尝试
 
-项目介绍: 
+**项目介绍:** 
 
-项目成果: 
+**项目链接:** [个人项目](http://smallkiss.github.io/blog/2015/07/27/Project_CSDN.html)
 
-项目链接: [个人项目](http://smallkiss.github.io/blog/2015/07/27/Project_CSDN.html)
-	
----
-
-> [给我一个机会 ，我可以做的更好。](/)
+**项目收获:** 
 
 ---
 
