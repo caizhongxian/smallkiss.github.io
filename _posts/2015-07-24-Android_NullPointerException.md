@@ -9,8 +9,8 @@ SyntaxHihglighter: true
 shTheme: shThemeMidnight # shThemeDefault  shThemeDjango  shThemeEclipse  shThemeEmacs  shThemeFadeToGrey  shThemeMidnight  shThemeRDark
 ---
 
-		不知道你们在Android开发中是否遇到Android空指针异常NullPointerException相关问题，引发此类异常的可能性
-	较多，常规的错误如下：
+不知道你们在Android开发中是否遇到Android空指针异常NullPointerException相关问题，引发此类异常的可能性
+较多，常规的错误如下：
 
 <!-- more -->
 
