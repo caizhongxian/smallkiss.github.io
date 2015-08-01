@@ -139,7 +139,7 @@ shTheme: shThemeMidnight # shThemeDefault  shThemeDjango  shThemeEclipse  shThem
 
 	CCDF功率互补累积分布函数是静态的功率计算，仅能用于时域数据。描述等于或者大于特定功率电平采样点在整个统计期间出现的概率，0db是信号的平均功率。
 	
-	**Trace A  Mkr  1:            2 dB            12 %**
+	**Trace A  Mkr  1:				2 dB					12 %**
 	
 	**表示在信道功率(平均功率)已知的情况下，采样点功率与平均功率之差大于或等于2dB的概率为12%.**
 	
