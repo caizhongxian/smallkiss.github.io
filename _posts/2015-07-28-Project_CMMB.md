@@ -234,7 +234,7 @@ shTheme: shThemeMidnight # shThemeDefault  shThemeDjango  shThemeEclipse  shThem
 	
 	![保护间隔信号选取](/res/img/blog/2015/05/23/gi_select.png)
 	
-	一个时隙的由来 **25ms=(409.6us+51.2us)*53+(2.4us)*53+(36us+2.4us)+204.8us*2**
+	一个时隙的由来 **25ms=(409.6us+51.2us) * 53+(2.4us) * 53+(36us+2.4us)+204.8us * 2**
 	
 * **星座映射**
 
@@ -242,17 +242,11 @@ shTheme: shThemeMidnight # shThemeDefault  shThemeDjango  shThemeEclipse  shThem
 	
 	![星座映射](/res/img/blog/2015/05/23/bpsk.png)
 
-* **RS编码和字节交织**
+* **RS编码和字节交织**(此处省略)
 
-	此处省略
-	
-* **LDPC编码**
+* **LDPC编码**(此处省略)
 
-	此处省略
-	
-* **比特交织**
-	
-	此处省略
+* **比特交织**(此处省略)
 
 此协议为实际发射端协议，而本项目涉及接收端，因此依据此协议，逆向分析**调制精度测量**部分,以上只是简单讲解发射端协议，如果想详细了解，请查阅相关资料。
 
