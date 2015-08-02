@@ -234,7 +234,24 @@ shTheme: shThemeMidnight # shThemeDefault  shThemeDjango  shThemeEclipse  shThem
 	
 	![保护间隔信号选取](/res/img/blog/2015/05/23/gi_select.png)
 	
+* **数据分析**
+
 	一个时隙的由来 **25ms=(409.6us+51.2us) * 53+(2.4us) * 53+(36us+2.4us)+204.8us * 2**
+	
+	从数据子载波分析
+	
+	+ 物理层带宽为**2M**
+		
+		![物理层带宽为2M](/res/img/blog/2015/05/23/analyse_2M.png)
+		
+	+ 物理层带宽为**8M**
+	
+		![物理层带宽为8M](/res/img/blog/2015/05/23/analyse_8M.png)
+		
+	+ 1个OFDM符号(460.8us)
+	
+		![1个OFDM符号](/res/img/blog/2015/05/23/ofdm2.png)
+		
 	
 * **星座映射**
 

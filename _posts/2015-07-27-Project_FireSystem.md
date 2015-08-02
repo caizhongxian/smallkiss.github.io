@@ -11,9 +11,15 @@ shTheme: shThemeMidnight # shThemeDefault  shThemeDjango  shThemeEclipse  shThem
 
 **项目图示**
 
+智能消防疏散管理系统CAN通讯ID格式图示:
+
+![CAN通讯ID](/res/img/blog/2015/07/27/id.png)
+
 ![智能消防疏散管理系统1](/res/img/blog/2015/07/27/firesystem1.png)
 
 <!-- more -->
+
+
 
 ![智能消防疏散管理系统2](/res/img/blog/2015/07/27/firesystem2.png)
 
