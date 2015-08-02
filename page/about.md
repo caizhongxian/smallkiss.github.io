@@ -46,8 +46,11 @@ blockquote p {
 # 实习经历
 
 实习公司: **亿阳信通股份有限公司**
+
 实习工作: **数据库开发及维护(两个月)**
+
 实习证明：
+
 
 ---
 # 项目经验
@@ -61,7 +64,7 @@ blockquote p {
 
 项目介绍: **CMMB数字广播信号测试与分析软件**
 
-**项目链接:** [CMMB数字广播信号测试与分析软件](http://smallkiss.github.io/blog/2015/07/27/Project_CMMB.html)
+**项目链接:** [CMMB数字广播信号测试与分析软件归档](http://smallkiss.github.io/blog/2015/07/27/Project_CMMB.html)
 
 项目成果: 目前已申请一份**软件著作权**和一份**发明专利**(已获受理)
 
@@ -73,7 +76,7 @@ blockquote p {
 
 项目介绍:
 
-**项目链接:** [智能消防疏散管理系统](http://smallkiss.github.io/blog/2015/07/27/Project_FireSystem.html)
+**项目链接:** [智能消防疏散管理系统归档](http://smallkiss.github.io/blog/2015/07/27/Project_FireSystem.html)
 
 项目成果:
 
@@ -91,7 +94,7 @@ blockquote p {
 
 项目介绍: 
 
-项目链接: [个人项目](http://smallkiss.github.io/blog/2015/07/27/Project_CSDN.html)
+项目链接: [个人项目归档](http://smallkiss.github.io/blog/2015/07/27/Project_CSDN.html)
 
 项目收获: 
 

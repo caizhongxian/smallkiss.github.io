@@ -1,6 +1,6 @@
 ---
 layout : post
-title : "智能消防疏散管理系统"
+title : "智能消防疏散管理系统归档"
 category : 工程项目
 duoshuo: true
 date : 2015-07-27
