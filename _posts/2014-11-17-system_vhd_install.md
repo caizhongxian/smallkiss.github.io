@@ -18,6 +18,7 @@ tags : [操作系统 , VHD]
 **Windows8/8.1系统利用VHD安装Windows7系统需满足：**
 
 - Windows 8/8.1必须支持VHD(Windows专业版以上均可)
+
 - Windows Bios支持MBR引导格式的硬盘
 
 >好了，具备了上述要求后，我们就开始吧。
@@ -25,6 +26,7 @@ tags : [操作系统 , VHD]
 ##Windows 8/8.1系统安裝VHD的Windows 7操作(以C盘做介绍)
 
 1. 快捷键「win」+「x」,以系统管理员权限进入cmd
+
 2. 使用Diskpart取代原先的「Fdisk」处理磁碟管理，该功能强大，支持脚本运行，在命令行输入「diskpart」，回车，进入diskpart 
 
 	![diskpart1](/res/img/blog/2014/11/17/pic2.png)
@@ -35,19 +37,24 @@ tags : [操作系统 , VHD]
 例如下面此例：
 
 	create vdisk file="c:\win7.vhd" maximun=20480 type=fixed
+	
 	![diskpart3](/res/img/blog/2014/11/17/pic3.png)
 	
 4. 使用select vdisk来选择运作的vhd，接着使用attach vdisk来挂载虚拟硬盘。
 
 	select vdisk file="c:\win7.vhd"
+	
 	attach vdisk
+	
 	![diskpart4](/res/img/blog/2014/11/17/pic4.png)
 	
 5. 使用「Create Partition」对虚拟磁盘进行分割，使用「Format」指令进行格式化，其中FS指格式化的档案格式，LABEL是虚拟磁盘的名称，
 quick是快速格式化的意思。
 
 	Create Partition Primary
+	
 	Format  FS=ntfs LABEL="Win7 VHD" quick
+	
 	![diskpart5](/res/img/blog/2014/11/17/pic5.png)
 
 6. assign指令是为你的vhd分区命名(例如C:/F:),同时，系统会提示相关信息
@@ -73,28 +80,38 @@ quick是快速格式化的意思。
 阅网络，部署方式如下：
 
 	imagex.exe /apply e:\sources\install.wim 1 f:\
+	
 	![diskpart10](/res/img/blog/2014/11/17/pic10.png)
 	
 11. 如果使用光盘方式来部署，可能需要花费一些时间，将install.wim部署到vhd,最后剩下BCDboot的开机项目设定，利用下述指令来复制一个开机选项，复制
 成功后会得到类似{b9b6cb92-4900-11e2-a8af-c520e488c4ad}的ID。
 
 	BCDEDIT /copy {current} /D “Windows 7″
+	
 	![diskpart11](/res/img/blog/2014/11/17/pic11.png)
 	
 12. 利用此ID修改启动项目，请务必使用你得到的ID依照如下顺序做修改动作，最后的timeout是调整选项单出现停留的时间。
 
 	BCDEDIT /set {b9b6cb92-4900-11e2-a8af-c520e488c4ad} device vhd=[C:]\win7.vhd
+	
 	BCDEDIT /set {b9b6cb92-4900-11e2-a8af-c520e488c4ad} osdevice vhd=[C:]\win7.vhd
+	
 	BCDEDIT /set {b9b6cb92-4900-11e2-a8af-c520e488c4ad} detecthal on
+	
 	BCDEDIT /timeout 10
+	
 	![diskpart12](/res/img/blog/2014/11/17/pic12.png)
 	
 13. 再次进入diskpart模式来中断连接部署的vhd，命令如下：
 
 	diskpart
+	
 	select vdisk file="c:\win7.vhd"
+	
 	detach vdisk
+	
 	exit
+	
 	![diskpart13](/res/img/blog/2014/11/17/pic13.png)
 	
 14. 快捷键「win」+「R」开启运行，输入「MSConfig.exe」,确定，选择开机标签页，如图所示：
