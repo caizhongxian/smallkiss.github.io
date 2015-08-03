@@ -236,7 +236,7 @@ shTheme: shThemeMidnight # shThemeDefault  shThemeDjango  shThemeEclipse  shThem
 	
 * **数据分析**
 
-	一个时隙的由来 **25ms=(409.6us+51.2us) * 53+(2.4us) * 53+(36us+2.4us)+204.8us * 2**
+	一个时隙的由来 **25ms=(409.6us+51.2us) * 53+(2.4us) * 54+(36us+2.4us)+204.8us * 2**
 	
 	从数据子载波分析
 	
@@ -248,14 +248,14 @@ shTheme: shThemeMidnight # shThemeDefault  shThemeDjango  shThemeEclipse  shThem
 	
 		![物理层带宽为8M](/res/img/blog/2015/05/23/analyse_8M.png)
 		
-	+ 1个OFDM符号(460.8us)
+	+ 1个OFDM符号**(460.8us)**
 	
 		![1个OFDM符号](/res/img/blog/2015/05/23/ofdm2.png)
 		
 	
 * **星座映射**
 
-	从左到右依次为BPSK、QPSK、16QAM
+	从左到右依次为**BPSK**、**QPSK**、**16QAM**
 	
 	![星座映射](/res/img/blog/2015/05/23/bpsk.png)
 
@@ -266,6 +266,62 @@ shTheme: shThemeMidnight # shThemeDefault  shThemeDjango  shThemeEclipse  shThem
 * **比特交织**(此处省略)
 
 此协议为实际发射端协议，而本项目涉及接收端，因此依据此协议，逆向分析**调制精度测量**部分,以上只是简单讲解发射端协议，如果想详细了解，请查阅相关资料。
+
+---
+
+###同步算法总结
+
+* **粗符号定时同步方法**
+
+	+ **获取同步信号初始位置**
+	
+		![同步信号初始位置计算方法](/res/img/blog/2015/05/23/tongbu.png)
+		
+		其中
+		
+		r(n):**接收到的I+jQ数据，j表示虚数，* 表示共轭 **
+		
+		C(n):**表示接收信号和延迟D个采样点的相关函数**
+		
+		  D :**一个同步信号的采样点数，物理层带宽为2MHz时，D=512，物理层带宽为8MHz时，D=2048**
+		
+		R(n):**接收到D个信号的平均能量**
+		
+		式(3)结果:**表示估计的度量函数，用平均能量R(n)归一化C(n)得到的函数。**
+		
+		  注:**粗符号定时同步所确定的FFT窗口的粗略位置在该度量函数取最大值时n值的附近**
+		  
+		由于粗符号定时同步只要粗略确定的FFT窗口的位置,可设置一个门限THcoarse。,当估计度量函数的值大于该门限时,即认为该n值就是粗定时同步确定的主径位置。门限值的设定如下式所示
+		
+		![门限THcoarse](/res/img/blog/2015/05/23/coarse.png)
+		
+		其中，**a可取0.9**
+		
+	+ **取OFDM数据**
+	
+		输入:**粗同步定位到的位置 n**
+		
+		每个OFDM数据体首地址如下(i表示本时隙中第i个OFDM数据体):
+			
+			- **物理带宽2MHz**
+				
+				Position(i)=n+512 * 2 + 6 * i + 128 * i +1024 * (i-1);
+			
+			- **物理带宽8MHz**
+				
+				Position(i)=n+2048 * 2 + 6 * i + 512 * i +4096 * (i-1);
+				
+		以物理带宽为2MHz考虑
+		
+		![物理带宽为2MHz](/res/img/blog/2015/05/23/tongbu1.png)
+		
+		时域OFDM数据体为：**r(Position(i)：（Positon(i)+1023))**
+		
+		经FFT模块转换为频域信号：FFT(r(Position(i)：(Positon(i)+1023))),FFT模块的N=1024。
+		
+		
+
+* **细符号定时同步方法**
 
 ---
 
