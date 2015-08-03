@@ -303,13 +303,13 @@ shTheme: shThemeMidnight # shThemeDefault  shThemeDjango  shThemeEclipse  shThem
 		
 		每个OFDM数据体首地址如下(i表示本时隙中第i个OFDM数据体):
 			
-			- **物理带宽2MHz**
+		- **物理带宽2MHz**
 				
-				Position(i)=n+512 * 2 + 6 * i + 128 * i +1024 * (i-1);
+			Position(i)=n+512 * 2 + 6 * i + 128 * i +1024 * (i-1);
 			
-			- **物理带宽8MHz**
+		- **物理带宽8MHz**
 				
-				Position(i)=n+2048 * 2 + 6 * i + 512 * i +4096 * (i-1);
+			Position(i)=n+2048 * 2 + 6 * i + 512 * i +4096 * (i-1);
 				
 		以物理带宽为2MHz考虑
 		
