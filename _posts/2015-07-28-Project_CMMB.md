@@ -279,7 +279,7 @@ shTheme: shThemeMidnight # shThemeDefault  shThemeDjango  shThemeEclipse  shThem
 		
 		其中
 		
-		r(n):**接收到的I+jQ数据，j表示虚数，* 表示共轭 **
+		r(n):**接收到的I+jQ数据，j表示虚数，* 表示共轭**
 		
 		C(n):**表示接收信号和延迟D个采样点的相关函数**
 		
@@ -305,7 +305,7 @@ shTheme: shThemeMidnight # shThemeDefault  shThemeDjango  shThemeEclipse  shThem
 			
 		- **物理带宽2MHz**
 				
-			Position(i)=n+512 * 2 + 6 * i + 128 * i +1024 * (i-1);
+			**Position(i)=n+512 * 2 + 6 * i + 128 * i +1024 * (i-1);**
 			
 		- **物理带宽8MHz**
 				
