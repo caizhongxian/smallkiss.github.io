@@ -309,7 +309,7 @@ shTheme: shThemeMidnight # shThemeDefault  shThemeDjango  shThemeEclipse  shThem
 			
 		- **物理带宽8MHz**
 				
-			Position(i)=n+2048 * 2 + 6 * i + 512 * i +4096 * (i-1);
+			**Position(i)=n+2048 * 2 + 6 * i + 512 * i +4096 * (i-1);**
 				
 		以物理带宽为2MHz考虑
 		
