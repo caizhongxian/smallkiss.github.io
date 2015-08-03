@@ -26,6 +26,12 @@ shTheme: shThemeMidnight # shThemeDefault  shThemeDjango  shThemeEclipse  shThem
 		
 ![project_work_flow](/res/img/blog/2015/05/23/project_work_flow.png)
 
+**与中国电子科技集团第41研究所第一次联调结果**
+
+通过与**中国电子科技集团公司第41研究所**第一次联调测试，本项目软件成功实现了对IQ时域数据功率分析方面的测试，包括:频谱检测，通道
+功率，邻道功率比，频谱发射模板等。可以说，这是本项目的一个**关键里程碑**，不仅仅验证了项目研究方法的正确性，为**调制精度测量联调**奠定了
+基础，更鼓舞了我们团队的士气。
+
 ---
 
 **项目概况**
@@ -71,6 +77,14 @@ shTheme: shThemeMidnight # shThemeDefault  shThemeDjango  shThemeEclipse  shThem
 
 ###功率测量方面
 
+* **频谱**
+
+	输入数据: **FFT模块输出的频域信息，采样率Fs及采样点数N(N为用户设置的时间窗口长度确定)**
+	
+	输出数据: **频谱图的横坐标与纵坐标**
+	
+	其    中: **Fn=(n-1)*Fs/N (Fs是采样频率，N是采样点数，n表是第n个点)**
+	
 * **通道功率**
 
 	计算选择的频率范围内的平均功率，一方面可以供通道功率显示模块显示，另一方面可以供ACP模块调用计算邻道功率比。
@@ -317,11 +331,17 @@ shTheme: shThemeMidnight # shThemeDefault  shThemeDjango  shThemeEclipse  shThem
 		
 		时域OFDM数据体为：**r(Position(i)：（Positon(i)+1023))**
 		
-		经FFT模块转换为频域信号：FFT(r(Position(i)：(Positon(i)+1023))),FFT模块的N=1024。
+		经FFT模块转换为频域信号：**FFT(r(Position(i)：(Positon(i)+1023)))**,FFT模块的**N=1024**。
 		
-		
-
 * **细符号定时同步方法**
+
+	粗符号定时同步后将接收到的数据进行**FFT变换**，获得频域数据，由离散导频信息估计出多径信道的时延特性，进行细符号同步精确找到FFT窗口起始位置。
+	
+	输入数据: 频域OFDM数据体，即粗符号同步输出的OFDM数据体时域信息经过FFT变换得到的频域信息。
+	
+	输出数据: 输出数据为同步位置纠正信息，输出至粗符号定时同步模块。
+	
+	
 
 ---
 
@@ -344,14 +364,6 @@ shTheme: shThemeMidnight # shThemeDefault  shThemeDjango  shThemeEclipse  shThem
 **项目质量分析**
 
 ![代码质量分析](/res/img/blog/2015/05/23/analyse.png)
-
----
-
-**与中国电子科技集团第41研究所第一次联调结果**
-
-通过与**中国电子科技集团公司第41研究所**第一次联调测试，本项目软件成功实现了对IQ时域数据功率分析方面的测试，包括:频谱检测，通道
-功率，邻道功率比，频谱发射模板等。可以说，这是本项目的一个**关键里程碑**，不仅仅验证了项目研究方法的正确性，为**调制精度测量联调**奠定了
-基础，更鼓舞了我们团队的士气。
 
 ---
 **未完**
