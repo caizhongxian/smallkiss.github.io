@@ -57,7 +57,7 @@ blockquote p {
 
 项目介绍: **CMMB数字广播信号测试与分析软件**
 
-**项目链接:** [CMMB数字广播信号测试与分析软件归档](http://smallkiss.github.io/blog/2015/07/27/Project_CMMB.html)
+**项目链接:** [CMMB数字广播信号测试与分析软件归档](http://smallkiss.github.io/blog/2015/07/28/Project_CMMB.html)
 
 项目成果: 目前已申请一份**软件著作权**和一份**发明专利**(已获受理)
 
