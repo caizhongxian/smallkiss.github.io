@@ -1,6 +1,6 @@
 ---
 layout : post
-title : "Windows8/8.1上使用VHD安装Windows7的双系统启动方案"
+title : "Windows8/8.1上使用VHD安装Windows7的双系统"
 category : 操作系统
 duoshuo: true
 date : 2014-11-17
