@@ -32,10 +32,21 @@ blockquote p {
 > 网名: smallkiss   
 > Email: <a href="mailto:smallkiss@139.com">smallkiss@139.com</a><br />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="mailto:linear_life@126.com">linear_life@126.com</a>   
-> 博&nbsp;&nbsp;客: <a href="http://smallkiss.github.io/">smallkiss</a>  
-> Git@OSC: <a href="http://git.oschina.net/smallkiss">@smallkiss</a>  
-> GitHub：[smallkiss](https://github.com/smallkiss)  
+> 博&nbsp;&nbsp;客: <a href="http://smallkiss.github.io/">smallkiss</a>
+  
+> Git@OSC : <a href="http://git.oschina.net/smallkiss">@smallkiss</a>  
+> GitHub  :[smallkiss](https://github.com/smallkiss) 
 > ....
+
+---
+
+**Git@OSC 月活跃度统计:**
+
+![Git@OSC月活跃度统计](/page/git_osc_active_degree.png)
+
+**GitHub  月活跃度统计:**
+
+![GitHub月活跃度统计](/page/github_active_degree.png)
 
 ---
 
