@@ -42,8 +42,6 @@ blockquote p {
 
 **Git@OSC 月活跃度统计:**
 
-![Git@OSC月活跃度统计](/page/git_osc_active_degree.png)
-
 **GitHub  月活跃度统计:**
 
 ![GitHub月活跃度统计](/page/github_active_degree.png)
