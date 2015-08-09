@@ -34,5 +34,8 @@ members:
     
   - name: 无损图片压缩
     link: https://tinypng.com/
+    
+  - name: 在线图片格式转换(导出ico/png)
+    link: http://lvwenhan.com/convertico/
 
  

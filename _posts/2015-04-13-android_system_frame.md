@@ -70,4 +70,24 @@ Android 手机操作系统是运行在 Linux Kernel 的分层操作系统，一�
 	
 * **Linux下的HAL层**
 
-	Linux下的HAL位于操作系统核心层和驱动程序之上，是运行在User Space中的服务程序。目的是为上层应用提供一个统一的查询硬件设备的接口。
+	Linux下的HAL位于操作系统核心层和驱动程序之上，是运行在User Space中的服务程序。目的是为上层应用提供一个统一的查询硬件设备的接口。正因为有了
+	HAL接口，可以提前开始应用的开发，不需要关心具体实现的硬件类型；其次，硬件厂商若需要更改硬件设备，只需要按照HAL接口规范和标准提供对应的硬件
+	驱动，而不需要改变应用；最后，HAL简化了应用程序查询硬件的逻辑，把这一部分复杂性转移给HAL统一处理。
+	
+**Android中的HAL运行结构**
+
+	+ **Android_src/hardware/libhardware_legacy**:老式HAL结构采用so动态链接库方式；
+	
+	+ **Android_src/hardware/libhardware**:新式HAL结构，采用stub代理方式调用。
+	
+		![HAL](/res/img/blog/2015/04/13/hal.png)
+		
+		左侧通过so动态链接库调用而达到对硬件驱动的访问。在so动态链接库里，实现了对驱动的访问逻辑处理。
+		
+		**HAL Stub**是Proxy代理概念。Stub虽然以 *.so的形式存在，但HAL将*.so的具体实现隐藏了起来，Stub向HAL提供Operations方法，Runtime通过Stub提供的so获取
+		
+		它的operations方法，并告知Runtime的callback方法，Runtime和Stub都有对方调用的方法，一个应用的请求通过Runtime调用Stub的operations方法，而Stub响应
+		
+		operations方法并完成后，在调用Runtime的callback方法进行返回。
+		
+		上层通过HAL提供的functions调用底部硬件，而底层硬件处理完上层请求或硬件状态发生变化后，HAL层通过Runtime提供的callback接口回调上层应用。

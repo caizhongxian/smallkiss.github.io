@@ -6,7 +6,7 @@ duoshuo: true
 
 <style>
 p {
-    color: #000000;
+    color: #6D6D6D;
     font-size: 18px;
     line-height: 1.5;
     letter-spacing: 2px;
@@ -92,6 +92,9 @@ blockquote p {
 ---
 
 # 个人获奖
+
+* 昆山花桥杯第九届安徽省大学生职业设计规划大赛省赛**金奖**
+
 
 ---
 {% if page.duoshuo != false %}{% include duoshuo.html %}{% endif %}
