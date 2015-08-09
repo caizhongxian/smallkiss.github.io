@@ -6,7 +6,7 @@ duoshuo: true
 
 <style>
 p {
-    color: #6D6D6D;
+    color: #000000;
     font-size: 18px;
     line-height: 1.5;
     letter-spacing: 2px;
