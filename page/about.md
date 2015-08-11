@@ -36,7 +36,8 @@ blockquote p {
  
 > Git@OSC : <a href="http://git.oschina.net/smallkiss">@smallkiss</a>  
 > GitHub  :[smallkiss](https://github.com/smallkiss)
-> segmentfault:[smallkiss](http://segmentfault.com/u/smallkiss) 
+> SegmentFault :[smallkiss](http://segmentfault.com/u/smallkiss)
+ 
 > ....
 
 ---
