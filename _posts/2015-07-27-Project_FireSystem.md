@@ -41,6 +41,22 @@ shTheme: shThemeMidnight # shThemeDefault  shThemeDjango  shThemeEclipse  shThem
 
 ![CAN测试](/res/img/blog/2015/07/27/usbcan.png)
 
+---
+
+**关于设备ID定义**
+
+定义所有设备ID方式:**AA-BB-CC(AA-集中电源号,BB-配电柜号，CC-灯具号)**，其中，**AA(0,10],BB(0,8],CC(0,256]**
+
+* **集中电源表示方法:** AA=集中电源号，BB=0,CC=0；
+
+* **配电柜表示方法:** AA=集中电源号，BB=配电柜号,CC=0；
+
+* **灯具表示方法:** AA=集中电源号，BB=配电柜号,CC=灯具号；
+
+* **集中控制器主机表示方法:** AA=0，BB=0,CC=2，即0-0-2；
+
+* **集中控制器备机表示方法:** AA=0，BB=0,CC=1，即0-0-1；
+
 智能消防疏散管理系统CAN通讯ID格式图示:
 
 ![CAN通讯ID](/res/img/blog/2015/07/27/id.png)
