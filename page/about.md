@@ -33,9 +33,10 @@ blockquote p {
 > Email: <a href="mailto:smallkiss@139.com">smallkiss@139.com</a><br />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="mailto:linear_life@126.com">linear_life@126.com</a>   
 > 博&nbsp;&nbsp;客: <a href="http://smallkiss.github.io/">smallkiss</a>
-  
+ 
 > Git@OSC : <a href="http://git.oschina.net/smallkiss">@smallkiss</a>  
-> GitHub  :[smallkiss](https://github.com/smallkiss) 
+> GitHub  :[smallkiss](https://github.com/smallkiss)
+> segmentfault:[smallkiss](http://segmentfault.com/u/smallkiss) 
 > ....
 
 ---
