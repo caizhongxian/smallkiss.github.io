@@ -1,6 +1,6 @@
 ---
 layout : post
-title : "个人项目归档"
+title : "NewsDev归档"
 category : 工程项目
 duoshuo: true
 date : 2015-07-27

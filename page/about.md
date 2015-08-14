@@ -29,7 +29,7 @@ blockquote p {
 
 
 
-> 网名: smallkiss   
+> 网名 : smallkiss   
 > Email: <a href="mailto:smallkiss@139.com">smallkiss@139.com</a><br />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="mailto:linear_life@126.com">linear_life@126.com</a>   
 > 博&nbsp;&nbsp;客: <a href="http://smallkiss.github.io/">smallkiss</a>
@@ -82,13 +82,13 @@ blockquote p {
 
 
 
-**CSDN Blog**
+**NewsDev**
    
 项目来源: **业余兴趣，尝试**
 
 项目介绍: 
 
-项目链接: [个人项目归档](http://smallkiss.github.io/blog/2015/07/27/Project_CSDN.html)
+项目链接: [NewsDev归档](http://smallkiss.github.io/blog/2015/07/27/Project_CSDN.html)
 
 项目收获: 
 
