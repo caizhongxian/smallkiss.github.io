@@ -29,19 +29,22 @@ blockquote p {
 
 
 
-> 网名 : smallkiss   
-> Email: <a href="mailto:smallkiss@139.com">smallkiss@139.com</a><br />
+* 昵称 : smallkiss
+   
+* Email: <a href="mailto:smallkiss@139.com">smallkiss@139.com</a><br />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="mailto:linear_life@126.com">linear_life@126.com</a>   
-> 博&nbsp;&nbsp;客: <a href="http://smallkiss.github.io/">smallkiss</a>
- 
-> Git@OSC : <a href="http://git.oschina.net/smallkiss">@smallkiss</a>  
-> GitHub  :[smallkiss](https://github.com/smallkiss)
 
-> SegmentFault :[smallkiss](http://segmentfault.com/u/smallkiss)
-
-> MarkDown Resume:[**smallkiss**](http://smallkiss.digitcv.com/#/admin)
+* 博&nbsp;&nbsp;客: <a href="http://smallkiss.github.io/">smallkiss</a>
  
-> ....
+* Git@OSC : <a href="http://git.oschina.net/smallkiss">@smallkiss</a>  
+
+* GitHub  :[smallkiss](https://github.com/smallkiss)
+
+* SegmentFault :[smallkiss](http://segmentfault.com/u/smallkiss)
+
+* **Resume**:[smallkiss](http://smallkiss.digitcv.com/#/resume)
+ 
+* ....
 
 ---
 
