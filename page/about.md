@@ -68,7 +68,7 @@ blockquote p {
 
 项目来源: **导师项目**
 
-项目介绍:
+项目介绍: **对下位机通过总线上传的数据进行管理和图形化显示、根据用户的操作通过总线向下位机发送相应的数据、对数据库进行管理，及对图形进行编辑等操作**
 
 **项目链接:** [智能消防疏散管理系统归档](http://smallkiss.github.io/blog/2015/07/27/Project_FireSystem.html)
 
@@ -84,13 +84,15 @@ blockquote p {
 
 **NewsDev**
    
-项目来源: **业余兴趣，尝试**
+项目来源: **网络开源项目**
 
-项目介绍: 
+项目介绍: **仿QQ侧滑菜单，利用JSoap爬虫解析HTML获取相关内容**
 
 项目链接: [NewsDev归档](http://smallkiss.github.io/blog/2015/07/27/Project_CSDN.html)
 
-项目收获: 
+Repo地址: [Android_NewsDev](https://github.com/SmallKiss/CSDN_BLOG)
+
+项目进展: **主框架已搭建完毕，可以抓取新闻内容，部分Bug待修复** 
 
 ---
 
