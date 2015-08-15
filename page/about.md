@@ -38,6 +38,8 @@ blockquote p {
 > GitHub  :[smallkiss](https://github.com/smallkiss)
 
 > SegmentFault :[smallkiss](http://segmentfault.com/u/smallkiss)
+
+> MarkDown Resume:[**smallkiss**](http://smallkiss.digitcv.com/#/admin)
  
 > ....
 
