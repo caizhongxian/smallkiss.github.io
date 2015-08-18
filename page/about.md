@@ -29,16 +29,18 @@ blockquote p {
 
 
 
-* 昵称 : smallkiss
+* 昵&nbsp;称&nbsp;: **smallkiss**
    
 * Email: <a href="mailto:smallkiss@139.com">smallkiss@139.com</a><br />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="mailto:linear_life@126.com">linear_life@126.com</a>   
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="mailto:linear_life@126.com">linear_life@126.com</a>   
 
 * 博&nbsp;&nbsp;客: <a href="http://smallkiss.github.io/">smallkiss</a>
  
 * Git@OSC : <a href="http://git.oschina.net/smallkiss">@smallkiss</a>  
 
 * GitHub  :[smallkiss](https://github.com/smallkiss)
+
+* Stack Overflow : smallkiss
 
 * SegmentFault :[smallkiss](http://segmentfault.com/u/smallkiss)
 
@@ -105,17 +107,19 @@ Repo地址: [Android_NewsDev](https://github.com/SmallKiss/CSDN_BLOG)
 
 ---
 
+* 2015年8月9日，首届中国“互连网+”大学生创新创业大赛**校赛银奖**
+
+* 2015年7月24日，校级**先进个人**
+
+* 2015年5月4日，校级**优秀团员**
+
 * 2014年12月，昆山花桥杯第九届安徽省大学生职业设计规划大赛省赛**总决赛金奖**
 
 * 2014年9月，学校大学生职业设计规划大赛**校赛一等奖**
 
-* 2013年12月，学校物联网创新设计大赛**优秀奖**
-
-* 2015年5月4日，校级**优秀团员**
-
-* 2015年7月24日，校级**先进个人**
-
 * 2014年6月，**校级优秀毕业设计**
+
+* 2013年12月，物联网创新设计大赛校赛**优胜奖**
 
 * **Loading...**
 
