@@ -12,6 +12,7 @@ shTheme: shThemeMidnight # shThemeDefault  shThemeDjango  shThemeEclipse  shThem
 如下程序打印输出结果如下：
 
 **4008175468544.000000**
+
 **1.000000**
 
 <!-- more -->
@@ -24,7 +25,7 @@ shTheme: shThemeMidnight # shThemeDefault  shThemeDjango  shThemeEclipse  shThem
 
 <pre class="brush: c; ">
 
-	#include<stdio.h>
+	#include&lt;stdio.h&gt;
 	
 	int main(void)
 	{
