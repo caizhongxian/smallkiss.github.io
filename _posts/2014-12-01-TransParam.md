@@ -12,7 +12,7 @@ shTheme: shThemeMidnight # shThemeDefault  shThemeDjango  shThemeEclipse  shThem
 参数传递的机制随实现不同而不同。如下程序：
 
 <pre class="brush: c; ">
-	#include<stdio.h>
+	#include&lt;stdio.h&gt;
 
 	int main(void)
 	{
