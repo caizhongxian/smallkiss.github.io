@@ -66,7 +66,7 @@ blockquote p {
 
 	+ 项目成果: 目前已申请一份**软件著作权**和一份**发明专利**(已获受理)
 
-	![软件著作权和发明专利电子版](/res/img/blog/about/patents.png)
+		![软件著作权和发明专利电子版](/res/img/blog/about/patents.png)
 
 * **智能消防疏散管理系统**
 
