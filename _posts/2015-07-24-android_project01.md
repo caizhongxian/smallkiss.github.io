@@ -1,6 +1,6 @@
 ---
 layout : post
-title : "Android优秀开源项目汇总——个性化控件(View)篇(ListView)"
+title : "个性化控件(View)篇(ListView)"
 category : 开源项目
 duoshuo: true
 date : 2015-07-24
@@ -12,7 +12,8 @@ shTheme: shThemeMidnight # shThemeDefault  shThemeDjango  shThemeEclipse  shThem
 Android优秀开源项目汇总——个性化控件(View)篇(ListView)介绍
 
 android-Ultra-Pull-to-Refresh  
-下拉刷新，第一个项目已经停止维护了，并且使用起来相对复杂，定制性也差。这个是替代和改良方案。这个继承于ViewGroup可以包含任何View。功能甚至比SwipeRefreshLayout强大。使用起来非常简单。良好的设计，如果你想定制自己的UI样式，非常简单，就像给ListView加一个Header View那么简单。支持 `API LEVEL >= 8`  
+下拉刷新，第一个项目已经停止维护了，并且使用起来相对复杂，定制性也差。这个是替代和改良方案。这个继承于ViewGroup可以包含任何View。功能甚至比SwipeRefreshLayout强大。使用起来非常简单。良好的设计，如果你想定制自己的UI样式，非常简单，就像给ListView加一个Header View那么简单。  
+支持 `API LEVEL >= 8`  
 项目地址：https://github.com/liaohuqiu/android-Ultra-Pull-To-Refresh  
 Demo地址：https://github.com/liaohuqiu/android-Ultra-Pull-To-Refresh/blob/master/ptr-demo/target/ultra-ptr-demo.apk?raw=true  
 效果图：  
