@@ -94,17 +94,13 @@ blockquote p {
   
   - 项目介绍: **仿QQ侧滑菜单，利用JSoap爬虫解析HTML获取相关内容**
   
-	- 项目链接: [NewsDev归档](http://smallkiss.github.io/blog/2015/07/27/Project_CSDN.html)
-	
-	- Repo地址: [Android_NewsDev](https://github.com/SmallKiss/CSDN_BLOG)
-	
-	- 项目进展:
-	
-	- 尚待解决:
-	
-	- 实物展示:
-	
-		![NewsDev](/res/img/blog/2015/07/27/NewsDev.png)
+  - 项目链接: [NewsDev归档](http://smallkiss.github.io/blog/2015/07/27/Project_CSDN.html)
+  
+  - Repo地址: [Android_NewsDev](https://github.com/SmallKiss/CSDN_BLOG)
+  
+  - 项目进展: 
+
+![NewsDev](/res/img/blog/2015/07/27/NewsDev.png)
 		
 ---
 
