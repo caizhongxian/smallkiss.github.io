@@ -14,7 +14,7 @@ Android优秀开源项目汇总——个性化控件(View)篇(Menu)介绍
 Context-Menu.Android  
 可以方便快速集成漂亮带有动画效果的上下文菜单，[Yalantis](http://yalantis.com/)出品。  
 项目地址：https://github.com/Yalantis/Context-Menu.Android  
-效果图：![Renderings](https://camo.githubusercontent.com/46c15734b552ce3afefa7efd1518909046b4677e/68747470733a2f2f6431337961637572716a676172612e636c6f756466726f6e742e6e65742f75736572732f3132353035362f73637265656e73686f74732f313738353237342f39396d696c65732d70726f66696c652d6c696768745f312d312d342e676966)  
+![Renderings](https://camo.githubusercontent.com/46c15734b552ce3afefa7efd1518909046b4677e/68747470733a2f2f6431337961637572716a676172612e636c6f756466726f6e742e6e65742f75736572732f3132353035362f73637265656e73686f74732f313738353237342f39396d696c65732d70726f66696c652d6c696768745f312d312d342e676966)  
 
 <!-- more -->
 
@@ -35,10 +35,11 @@ APP示例：Foursquare, LinkedIn, Zappos, Rdio, Evernote Food, Plume, VLC for An
 **ArcMenu**  
 支持类似Path的左下角动画旋转菜单及横向划出菜单、圆心弹出菜单  
 项目地址：https://github.com/daCapricorn/ArcMenu  
-效果图：![Renderings](https://camo.githubusercontent.com/1fcc783d2e784f7db24feb2b6857f4aa43fc685b/68747470733a2f2f646c2e64726f70626f782e636f6d2f752f31313336393638372f70726576696577302e706e67)
+APP示例：Path  
+效果图：  
+![Renderings](https://camo.githubusercontent.com/1fcc783d2e784f7db24feb2b6857f4aa43fc685b/68747470733a2f2f646c2e64726f70626f782e636f6d2f752f31313336393638372f70726576696577302e706e67)
 ![smallkiss](https://camo.githubusercontent.com/7c3d707678e6aa187cdf2ee3ac701d77fba92f48/68747470733a2f2f646c2e64726f70626f782e636f6d2f752f31313336393638372f70726576696577312e706e67)
 ![smallkiss](https://camo.githubusercontent.com/a5050578e15ff2e22deb2c0249b50c69f8f1ec1a/68747470733a2f2f646c2e64726f70626f782e636f6d2f752f31313336393638372f7261796d656e752e706e67)  
-APP示例：Path  
 
 **android-satellite-menu**  
 类似Path的左下角动画旋转菜单  
@@ -51,7 +52,7 @@ radial-menu-widget
 圆形菜单，支持二级菜单  
 项目地址：https://code.google.com/p/radial-menu-widget/  
 效果图：  
-http://farm8.staticflickr.com/7377/11621125154_d1773c2dcc_o.jpg  
+![Renderings](http://farm8.staticflickr.com/7377/11621125154_d1773c2dcc_o.jpg)  
 
 Android Wheel Menu  
 圆形旋转选取菜单  
