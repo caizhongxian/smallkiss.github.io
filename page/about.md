@@ -88,38 +88,37 @@ blockquote p {
 
 # 个人项目  
 
-* **NewsDev**  
+* **NewsDev**
 
-  - 项目来源: **网络开源项目**  
+  - 项目来源: **网络开源项目**
   
-	- 项目介绍: **仿QQ侧滑菜单，利用JSoap爬虫解析HTML获取相关内容**  
+  - 项目介绍: **仿QQ侧滑菜单，利用JSoap爬虫解析HTML获取相关内容**
+  
+	- 项目链接: [NewsDev归档](http://smallkiss.github.io/blog/2015/07/27/Project_CSDN.html)
 	
-	- 项目链接: [NewsDev归档](http://smallkiss.github.io/blog/2015/07/27/Project_CSDN.html) 
-	 
-	- Repo地址: [Android_NewsDev](https://github.com/SmallKiss/CSDN_BLOG)  
+	- Repo地址: [Android_NewsDev](https://github.com/SmallKiss/CSDN_BLOG)
 	
-
-	- 项目进展:   
+	- 项目进展:
 	
-		* **主框架已搭建完毕**  
+		* **主框架已搭建完毕**
 		
-		* **仿QQ侧滑菜单**  
+		* **仿QQ侧滑菜单**
 		
-		* **支持下拉刷新，上划加载更多**  
+		* **支持下拉刷新，上划加载更多**
 		
-		* **实时抓取网络新闻内容,实现分页存储**  
+		* **实时抓取网络新闻内容,实现分页存储**
 		
-		* **异步加载图片**  
+		* **异步加载图片**
 	
-	- 尚待解决:  
+	- 尚待解决:
 	
-		* **异步加载图片略卡，尚需优化**  
+		* **异步加载图片略卡，尚需优化**
 		
-		* **Jsoap解析HTML遗留Bug**  
+		* **Jsoap解析HTML遗留Bug**
 		
-	- 实物展示:  
+	- 实物展示:
 	
-		![NewsDev](/res/img/blog/2015/07/27/NewsDev.png)  
+		![NewsDev](/res/img/blog/2015/07/27/NewsDev.png)
 		
 ---
 
