@@ -13,7 +13,7 @@ Android优秀开源项目汇总——个性化控件(View)篇(ViewPager 、Galle
 
 **AndroidImageSlider**  
 An amazing and convenient Android image slider.  
-一个了不起的滑块和方便Android 图片滑动。
+一个了不起的滑块和方便Android 图片滑动。  
 项目地址: https://github.com/daimajia/AndroidImageSlider  
 App示例: https://github.com/daimajia/AndroidImageSlider/releases/download/v1.0.8/demo-1.0.8.apk  
 Eclipse工程: https://github.com/daimajia/AndroidImageSlider/releases/download/v1.0.9/AndroidImageSlider-Eclipse.zip    
@@ -54,7 +54,6 @@ APP示例：新浪微博各个页面
 支持Item切换动画效果的类似Gallery View  
 项目地址：https://github.com/davidschreiber/FancyCoverFlow  
 Demo地址：https://play.google.com/store/apps/details?id=at.technikum.mti.fancycoverflow.samples  
-效果图：![Renderings](https://github-camo.global.ssl.fastly.net/ef5ced52b7b54652b50499521ed797c0188c7a6b/687474703a2f2f64617669647363687265696265722e6769746875622e696f2f46616e6379436f766572466c6f772f73637265656e73686f74322e706e67)  
 
 **AndroidTouchGallery**  
 支持双击或双指缩放的Gallery(用ViewPager实现)，相比下面的PhotoView，在被放大后依然能滑到下一个item，并且支持直接从url和文件中获取图片，  
