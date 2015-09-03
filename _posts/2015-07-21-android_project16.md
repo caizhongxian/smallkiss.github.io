@@ -62,13 +62,6 @@ Activity切换动画，包括渐变、flip、某个位置进入等等
 针对View的各种动画  
 项目地址：https://github.com/2359media/EasyAndroidAnimations  
 
-**GlowPadBackport**  
-将Android4.2的锁屏界面解锁扩展到Android1.6及1.6+  
-项目地址：https://github.com/rock3r/GlowPadBackport  
-Demo地址：https://play.google.com/store/apps/details?id=net.sebastianopoggi.samples.ui.GlowPadSample  
-效果图：  
-![Renderings](https://lh6.ggpht.com/U070b6Lh6cVsVwx4jN-5nq0xqiB1PBzrYABPeJIEe2hZQ5UWOxc-FDUG77wADelToHA=h310-rw)  
-
 **GlowPadView**  
 Android4锁屏界面解锁  
 项目地址：https://github.com/nadavfima/GlowPadView  
