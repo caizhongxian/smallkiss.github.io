@@ -11,17 +11,17 @@ shTheme: shThemeMidnight # shThemeDefault  shThemeDjango  shThemeEclipse  shThem
 
 Android优秀开源项目汇总——个性化控件(View)篇(GraphView)介绍
 
-**achartengine**  
-强大的图表绘制工具，支持折线图、面积图、散点图、时间图、柱状图、条图、饼图、气泡图、圆环图、范围（高至低）条形图、拨号图/表、立方线图及各种图的结合  
-项目地址：https://code.google.com/p/achartengine/  
-官网网址：http://www.achartengine.org/  
-APP示例：Wordpress Android，Google Analytics  
+**WilliamChart**  
+绘制图表的库，支持LineChartView、BarChartView和StackBarChartView三中图表类型，并且支持 Android 2.2及以上的系统。  
+项目地址：https://github.com/diogobernardino/WilliamChart  
+Demo地址：https://play.google.com/store/apps/details?id=com.db.williamchartdemo  
+Demo项目：https://github.com/diogobernardino/WilliamChart/tree/master/sample  
+![Renderings](https://github.com/diogobernardino/WilliamChart/raw/master/art/linechart.gif)![Renderings](https://github.com/diogobernardino/WilliamChart/raw/master/art/barchart.gif)![Renderings](https://github.com/diogobernardino/WilliamChart/raw/master/art/stackbarchart.gif)  
+
 <div>  
-  <img src='http://www.achartengine.org/dimages/average_temperature.png' width="150px"/>  
-  <img src='http://www.achartengine.org/dimages/sales_line_and_area_chart.png' width="150px"/>  
-  <img src='http://www.achartengine.org/dimages/temperature_range_chart.png' width="150px"/>  
-  <img src='http://www.achartengine.org/dimages/combined_chart.png' width="150px"/>  
-  <img src='http://www.achartengine.org/dimages/budget_chart.png' width="150px"/>  
+  <img src='https://github.com/diogobernardino/WilliamChart/raw/master/art/linechart.gif' width="300px"/>  
+  <img src='https://github.com/diogobernardino/WilliamChart/raw/master/art/barchart.gif' width="300px"/>  
+  <img src='https://github.com/diogobernardino/WilliamChart/raw/master/art/stackbarchart.gif' width="300px"/>  
 </div>
 
 <!-- more -->
@@ -57,18 +57,26 @@ Android 图表库，支持柱状图、分层柱状图、饼状图、线性图
 项目地址：https://github.com/blackfizz/EazeGraph  
 Demo地址：https://play.google.com/store/apps/details?id=org.eazegraph.app  
 
-**WilliamChart**  
-绘制图表的库，支持LineChartView、BarChartView和StackBarChartView三中图表类型，并且支持 Android 2.2及以上的系统。  
-项目地址：https://github.com/diogobernardino/WilliamChart  
-Demo地址：https://play.google.com/store/apps/details?id=com.db.williamchartdemo  
-Demo项目：https://github.com/diogobernardino/WilliamChart/tree/master/sample  
-![Renderings](https://github.com/diogobernardino/WilliamChart/raw/master/art/linechart.gif)![Renderings](https://github.com/diogobernardino/WilliamChart/raw/master/art/barchart.gif)![Renderings](https://github.com/diogobernardino/WilliamChart/raw/master/art/stackbarchart.gif)  
+
 
 **HelloCharts for Android**  
 支持折线图、柱状图、饼图、气泡图、组合图；支持预览、放大缩小，滚动，部分图表支持动画；支持 Android 2.2 以上  
 项目地址：https://github.com/lecho/hellocharts-android  
 Demo地址：https://play.google.com/store/apps/details?id=lecho.lib.hellocharts.samples  
 在线演示：https://www.youtube.com/watch?v=xbSBjyjH2SY  
+
+**achartengine**  
+强大的图表绘制工具，支持折线图、面积图、散点图、时间图、柱状图、条图、饼图、气泡图、圆环图、范围（高至低）条形图、拨号图/表、立方线图及各种图的结合  
+项目地址：https://code.google.com/p/achartengine/  
+官网网址：http://www.achartengine.org/  
+APP示例：Wordpress Android，Google Analytics  
+<div>  
+  <img src='http://www.achartengine.org/dimages/average_temperature.png' width="150px"/>  
+  <img src='http://www.achartengine.org/dimages/sales_line_and_area_chart.png' width="150px"/>  
+  <img src='http://www.achartengine.org/dimages/temperature_range_chart.png' width="150px"/>  
+  <img src='http://www.achartengine.org/dimages/combined_chart.png' width="150px"/>  
+  <img src='http://www.achartengine.org/dimages/budget_chart.png' width="150px"/>  
+</div>
 
 
 
