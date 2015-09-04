@@ -70,7 +70,7 @@ APP示例：https://play.google.com/store/apps/details?id=com.aviary.android.fea
 **Shape Image View**  
 可以自定义各种形状的ImageView, 并且支持边框  
 项目地址：https://github.com/siyamed/android-shape-imageview  
-效果图：<img height="500px" src="https://github.com/siyamed/android-shape-imageview/raw/master/images/shader-buble.png" /><img height="500px" src="https://github.com/siyamed/android-shape-imageview/raw/master/images/all-samples.png"/>  
+效果图：<img height="200px" src="https://github.com/siyamed/android-shape-imageview/raw/master/images/shader-buble.png" /><img height="200px" src="https://github.com/siyamed/android-shape-imageview/raw/master/images/all-samples.png"/>  
 
 **TextDrawable**  
 一个用于生成带有文本或者字母的图片的轻量级库。扩展自Drawable，因此可用于现有/自定义/网络等ImageView类，并且包含一个流接口用于创建drawables以及一个定制的ColorGenerator  

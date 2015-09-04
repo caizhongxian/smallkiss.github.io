@@ -15,8 +15,8 @@ Android优秀开源项目汇总——个性化控件(View)篇(ScrollView)介绍
 一个非常简单的弧布局库  
 项目地址: https://github.com/ogaclejapan/ArcLayout  
 Demo地址k: https://play.google.com/store/apps/details?id=com.ogaclejapan.arclayout.demo  
-效果图: ![Renderings](https://raw.githubusercontent.com/ogaclejapan/ArcLayout/master/art/demo1.gif)  
-![renderings](https://raw.githubusercontent.com/ogaclejapan/ArcLayout/master/art/demo2.gif)  
+效果图: ![Renderings](https://raw.githubusercontent.com/ogaclejapan/ArcLayout/master/art/demo1.gif)
+![renderings](https://raw.githubusercontent.com/ogaclejapan/ArcLayout/master/art/demo2.gif)
 
 <!-- more -->
 
