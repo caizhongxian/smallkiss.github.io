@@ -14,7 +14,6 @@ Android优秀开源项目汇总——个性化控件(View)篇(GridView)介绍
 **GridView with Header and Footer**  
 和`ListView`一样带头部和底部的`GridView`，用法和`ListView`一样  
 项目地址：https://github.com/liaohuqiu/android-GridViewWithHeaderAndFooter  
-效果图：  
 ![Screen Shot](https://raw.githubusercontent.com/liaohuqiu/android-GridViewWithHeaderAndFooter/master/screen-shot.png)  
 
 <!-- more -->
@@ -45,7 +44,6 @@ Demo地址：https://github.com/thquinn/DraggableGridView/blob/master/bin/Dragga
 **StickyGridHeaders**  
 GroupName滑动到顶端时会固定不动直到另外一个GroupName到达顶端的GridView  
 项目地址：https://github.com/TonicArtos/StickyGridHeaders  
-效果图：![Renderings](https://github-camo.global.ssl.fastly.net/90b57e9383704c400706545225d439e057c6fcc0/687474703a2f2f342e62702e626c6f6773706f742e636f6d2f2d535f4262685758367754592f55517057306377554745492f41414141414141414776552f7a7a4a586a2d50635662592f73313630302f73637265656e2d6c616e6473636170652d736d616c6c65722e706e67)  
 
 **PagedDragDropGrid**  
 Item可拖动交换位置、拖动删除的自定义控件，实际是自己继承ViewGroup实现，类似桌面的多屏效果，可拖动到屏幕边缘，屏幕自动左右滚动进行Item移动交换，可拖动进行删除，单屏效果见上面DraggableGridView  
@@ -69,7 +67,6 @@ Demo地址：https://github.com/Trinea/trinea-download/blob/master/draggable-gri
 一个支持跨行和跨列可变Item大小的GridView  
 项目地址：https://github.com/felipecsl/AsymmetricGridView  
 Demo地址：https://play.google.com/store/apps/details?id=com.felipecsl.asymmetricgridview.app  
-效果图：  
 ![Renderings](https://raw.githubusercontent.com/felipecsl/AsymmetricGridView/master/screenshots/ss_5_cols.png)  
 
 

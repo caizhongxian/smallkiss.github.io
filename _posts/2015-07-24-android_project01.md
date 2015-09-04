@@ -16,7 +16,6 @@ android-Ultra-Pull-to-Refresh
 支持 `API LEVEL >= 8`  
 项目地址：https://github.com/liaohuqiu/android-Ultra-Pull-To-Refresh  
 Demo地址：https://github.com/liaohuqiu/android-Ultra-Pull-To-Refresh/blob/master/ptr-demo/target/ultra-ptr-demo.apk?raw=true  
-效果图：  
 <div>  
   <img src='http://srain-github.qiniudn.com/ultra-ptr/contains-all-of-views.gif' width="150px"/>  
   <img src='http://srain-github.qiniudn.com/ultra-ptr/release-to-refresh.gif' width="150px"/>  
@@ -66,7 +65,6 @@ Demo地址：https://github.com/JakeWharton/SwipeToDismissNOA/SwipeToDismissNOA.
 首先它是一个ExpandableListView，但是它的头部可以固定，其次，在它的上面还有一个头部可以来回伸缩  
 项目地址：https://github.com/singwhatiwanna/PinnedHeaderExpandableListView  
 APP示例：百度手机卫士垃圾清理界面  
-效果图：  
 ![Renderings](https://camo.githubusercontent.com/fa7f516b0b6e2921007a17cbc359b3f661f32226/687474703a2f2f696d672e626c6f672e6373646e2e6e65742f32303134303531313135313534363834333f77617465726d61726b2f322f746578742f6148523063446f764c324a736232637559334e6b626935755a58517663326c755a33646f5958527064324675626d453d2f666f6e742f3561364c354c32542f666f6e7473697a652f3430302f66696c6c2f49304a42516b46434d413d3d2f646973736f6c76652f37302f677261766974792f536f75746845617374)  
 
 
@@ -74,14 +72,12 @@ APP示例：百度手机卫士垃圾清理界面
 GroupName滑动到顶端时会固定不动直到另外一个GroupName到达顶端的ExpandListView，支持快速滑动，支持Android2.3及以上  
 项目地址：https://github.com/emilsjolander/StickyListHeaders  
 APP示例：Android 4.0联系人  
-效果图：  
 ![Renderings](https://raw.github.com/emilsjolander/StickyListHeaders/master/demo.gif)  
   
 
 **pinned-section-listview**  
 GroupName滑动到顶端时会固定不动直到另外一个GroupName到达顶端的ExpandListView  
 项目地址：https://github.com/beworker/pinned-section-listview  
-效果图：  
 ![Renderings](https://raw.github.com/beworker/pinned-section-listview/master/screen1.png)  
 
 **PinnedHeaderListView**  
@@ -108,13 +104,11 @@ APP示例：微信通讯录、小米联系人
 **CustomFastScrollView**  
 ListView快速滑动，同时屏幕中间PopupWindows显示滑动到的item内容或首字母  
 项目地址：https://github.com/nolanlawson/CustomFastScrollViewDemo  
-效果图：  
 ![Renderings](https://raw.github.com/nolanlawson/CustomFastScrollViewDemo/master/example.png)  
 
 **Android-ScrollBarPanel**  
 ListView滑动时固定的Panel指示显示在scrollbar旁边  
 项目地址：https://github.com/rno/Android-ScrollBarPanel  
-效果图：  
 ![Renderings](https://github.com/rno/Android-ScrollBarPanel/raw/master/demo_capture.png)  
 
 **SlideExpandableListView**  
@@ -165,14 +159,12 @@ Demo地址：https://play.google.com/store/apps/details?id=de.timroes.android.li
 自动滚动的双列ListView ，两个ListView滚动速度不一致，有视差效果  
 项目地址：https://github.com/jpardogo/ListBuddies  
 Demo地址：https://play.google.com/store/apps/details?id=com.jpardogo.android.listbuddies  
-效果图：  
 ![Renderings](https://raw.github.com/jpardogo/ListBuddies/master/art/screenshot_listbuddies_2.png)  
 
 **SwipeMenuListView**  
 针对ListView item的侧滑菜单  
 项目地址：https://github.com/baoyongzhang/SwipeMenuListView  
 APP示例：手机QQV5.0  
-效果图：  
 ![Renderings](https://raw.githubusercontent.com/baoyongzhang/SwipeMenuListView/master/demo.gif)  
 
 
@@ -183,19 +175,16 @@ APP示例：手机QQV5.0
 **PullZoomView**  
 支持下拉时HeaderView缩放的ListView、ScrollView  
 项目地址：https://github.com/Frank-Zhu/PullZoomView  
-效果图：  
 ![Renderings](https://raw.githubusercontent.com/Frank-Zhu/PullZoomView/master/art/pull-to-zoom.gif)  
 
 **PullToZoomInListView**  
 滑动ListView时使其HeaderView跟随滑动缩放  
 项目地址：https://github.com/matrixxun/PullToZoomInListView  
-效果图：  
 ![Renderings](https://github.com/matrixxun/PullToZoomInListView/raw/master/art/pull-to-zoom.gif)  
 
 **CalendarListview**  
 实现每个月一行日历效果的ListView  
 项目地址：https://github.com/traex/CalendarListview  
-效果图：  
 ![Renderings](https://github.com/traex/CalendarListview/raw/master/demo.gif)  
 
 **sticky-headers-recyclerview**  
@@ -205,7 +194,6 @@ GroupName滑动到顶端时会固定不动直到另外一个GroupName到达顶�
 **PullSeparateListView**  
 到达顶部或底部继续拉动时，实现Item间的相互分离，两种模式：(1) 全部分离的模式，即屏幕内所有Item都会分离 (2)部分分离模式，以点击位置为分界点，部分item分离  
 项目地址：https://github.com/chiemy/PullSeparateListView  
-效果图：  
 ![Renderings](https://github.com/chiemy/PullSeparateListView/raw/master/capture.gif)  
 
 **ExpandableLayout**  
@@ -215,7 +203,6 @@ Header 和 Content Item 都可以展开的 ExpandableListview
 **PagedHeadListView**  
 支持paginated header以及material page indicator的ListView.  
 项目地址：https://github.com/JorgeCastilloPrz/PagedHeadListView  
-效果图：  
 ![Renderings](https://raw.githubusercontent.com/JorgeCastilloPrz/PagedHeadListView/master/app/src/main/res/raw/preview1.gif)  
   
 
@@ -223,13 +210,11 @@ Header 和 Content Item 都可以展开的 ExpandableListview
 支持左滑弹出自定义菜单，右滑删除且允许撤销，同时可以自定义滑动动画时间和滑动触发事件的时机等。   
 项目地址：https://github.com/xyczero/Android-CustomSwipeListView   
 Demo地址：[Download here](http://7u2jsw.com1.z0.glb.clouddn.com/githubCustomSwipeListView.apk)   
-效果图：  
 ![screenshot](http://7u2jsw.com1.z0.glb.clouddn.com/githubCustomSwipeListview_Set.PNG)   
 
 
 **Pull-to-Refresh.Rentals-Android**  
 提供一个简单可以自定义的下拉刷新实现，[Yalantis](http://yalantis.com/) 出品。  
 项目地址：https://github.com/Yalantis/Pull-to-Refresh.Rentals-Android  
-效果图：  
-![Renderings](https://camo.githubusercontent.com/d406ac5a03a2b1fa5cf41fadc8d2408cb8709bdc/68747470733a2f2f6431337961637572716a676172612e636c6f756466726f6e742e6e65742f75736572732f3132353035362f73637265656e73686f74732f313635303331372f7265616c6573746174652d70756c6c5f312d322d332e676966)  
+
 

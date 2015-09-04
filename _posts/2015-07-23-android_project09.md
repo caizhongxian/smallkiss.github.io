@@ -15,7 +15,7 @@ Android优秀开源项目汇总——个性化控件(View)篇(ScrollView)介绍
 一个非常简单的弧布局库  
 项目地址: https://github.com/ogaclejapan/ArcLayout  
 Demo地址k: https://play.google.com/store/apps/details?id=com.ogaclejapan.arclayout.demo  
-效果图: ![Renderings](https://raw.githubusercontent.com/ogaclejapan/ArcLayout/master/art/demo1.gif)
+![Renderings](https://raw.githubusercontent.com/ogaclejapan/ArcLayout/master/art/demo1.gif)
 ![renderings](https://raw.githubusercontent.com/ogaclejapan/ArcLayout/master/art/demo2.gif)
 
 <!-- more -->
@@ -30,7 +30,7 @@ Demo地址：https://github.com/flavienlaurent/discrollview/raw/master/sample.ap
 **PullScrollView**  
 仿照新浪微博Android客户端个人中心的ScrollView，下拉背景伸缩回弹效果。  
 项目地址：https://github.com/MarkMjw/PullScrollView  
-效果图：![Renderings](https://raw.github.com/MarkMjw/PullScrollView/master/Screenshots/1.png)  
+![Renderings](https://raw.github.com/MarkMjw/PullScrollView/master/Screenshots/1.png)  
 
 **ParallaxScrollView**  
 支持视差滚动的ScrollView ，背景图片的滚动速度小于ScrollView中子控件的滚动速度  

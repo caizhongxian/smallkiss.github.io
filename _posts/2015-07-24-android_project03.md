@@ -36,7 +36,6 @@ APP示例：Foursquare, LinkedIn, Zappos, Rdio, Evernote Food, Plume, VLC for An
 支持类似Path的左下角动画旋转菜单及横向划出菜单、圆心弹出菜单  
 项目地址：https://github.com/daCapricorn/ArcMenu  
 APP示例：Path  
-效果图：  
 ![Renderings](https://camo.githubusercontent.com/1fcc783d2e784f7db24feb2b6857f4aa43fc685b/68747470733a2f2f646c2e64726f70626f782e636f6d2f752f31313336393638372f70726576696577302e706e67)
 ![smallkiss](https://camo.githubusercontent.com/7c3d707678e6aa187cdf2ee3ac701d77fba92f48/68747470733a2f2f646c2e64726f70626f782e636f6d2f752f31313336393638372f70726576696577312e706e67)
 ![smallkiss](https://camo.githubusercontent.com/a5050578e15ff2e22deb2c0249b50c69f8f1ec1a/68747470733a2f2f646c2e64726f70626f782e636f6d2f752f31313336393638372f7261796d656e752e706e67)  
@@ -51,33 +50,26 @@ Demo地址：https://github.com/Trinea/TrineaDownload/blob/master/satellite-menu
 radial-menu-widget  
 圆形菜单，支持二级菜单  
 项目地址：https://code.google.com/p/radial-menu-widget/  
-效果图：  
-![Renderings](http://farm8.staticflickr.com/7377/11621125154_d1773c2dcc_o.jpg)  
 
 Android Wheel Menu  
 圆形旋转选取菜单  
 项目地址：https://github.com/anupcowkur/Android-Wheel-Menu  
-效果图：  
 ![Renderings](https://raw.github.com/anupcowkur/Android-Wheel-Menu/master/graphics/wheel.gif)  
 
 FoldingNavigationDrawer  
 滑动并以折叠方式打开菜单  
 项目地址：https://github.com/tibi1712/FoldingNavigationDrawer-Android  
 Demo地址：https://play.google.com/store/apps/details?id=com.ptr.folding.sample  
-效果图：  
-![Renderings](https://lh6.ggpht.com/VnKUZenAozQ0KFAm5blFTGqMaKFjvX-BK2JH-jrX1sIXVTqciACqRhqFH48hc4pm2Q=h310-rw)  
 
 AndroidResideMenu  
 仿 Dribbble 的边栏菜单  
 项目地址：https://github.com/SpecialCyCi/AndroidResideMenu  
-效果图：  
 ![Renderings](https://github.com/SpecialCyCi/AndroidResideMenu/raw/master/2.gif)  
 
 CircularFloatingActionMenu  
 一个可定制的圆形的浮动菜单控件，类似于Path的圆形菜单。这个控件的可定制性更强，可以很容易的定制菜单出现消失时的动画，起始角度和半径。  
 项目地址：https://github.com/oguzbilgener/CircularFloatingActionMenu  
 Demo地址：https://github.com/oguzbilgener/CircularFloatingActionMenu/tree/master/samples  
-效果图：  
 ![Renderings](https://raw.githubusercontent.com/oguzbilgener/CircularFloatingActionMenu/master/assets/circularfab.gif)  
 
 NavigationDrawerSI  
@@ -85,9 +77,7 @@ Navigation Drawer的一个简单实现，滑动并以折叠方式打开菜单
 项目地址：https://github.com/mmBs/NavigationDrawerSI  
 Demo地址：https://play.google.com/store/apps/details?id=mmbialas.pl.navigationdrawersi  
 APP示例：https://play.google.com/store/apps/details?id=mmbialas.pl.navigationdrawersi  
-效果图：  
 <img height="500px" src="https://raw.githubusercontent.com/mmBs/NavigationDrawerSI/master/images/screens.png" />  
-
 
 DragLayout  
 使用support.v4包下的ViewDragHelper实现QQ5.0侧滑  
@@ -104,14 +94,12 @@ Material Design 形式的展开折叠Icon
 Floating Action Button  
 悬浮的圆形菜单栏，支持组建滚动时自动隐藏及其他设置  
 项目地址：https://github.com/shamanland/floating-action-button  
-效果图：  
 ![Renderings](https://camo.githubusercontent.com/c679cb23cf62830b0d4037e17cf2d8d4090bc3c8/68747470733a2f2f64726976652e676f6f676c652e636f6d2f75633f69643d3042776830534e4c506d6a5142526b466f5a4530345646393051324d)  
   
 
 Side-Menu.Android  
 分类侧滑菜单，[Yalantis](http://yalantis.com/) 出品。  
 项目地址：https://github.com/Yalantis/Side-Menu.Android  
-效果图：  
 ![Renderings](https://camo.githubusercontent.com/cb6caa7a392d01d46bca9d9485c01fc173f55fac/68747470733a2f2f6431337961637572716a676172612e636c6f756466726f6e742e6e65742f75736572732f3132353035362f73637265656e73686f74732f313638393932322f6576656e74732d6d656e755f312d312d362e676966)  
 
 

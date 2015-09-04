@@ -27,7 +27,6 @@ Eclipse工程: https://github.com/daimajia/AndroidImageSlider/releases/download/
 配合ViewPager使用的Indicator，支持各种位置和样式  
 项目地址：https://github.com/JakeWharton/Android-ViewPagerIndicator  
 Demo地址：https://play.google.com/store/apps/details?id=com.viewpagerindicator.sample  
-APP示例：太多了。。  
 
 **JazzyViewPager**  
 支持Fragment切换动画的ViewPager，动画包括转盘、淡入淡出、翻页、层叠、旋转、方块、翻转、放大缩小等，效果类似桌面左右切换的各种效果，不过桌面并非用ViewPager实现而已  
@@ -37,7 +36,7 @@ Demo地址：https://github.com/jfeinstein10/JazzyViewPager/blob/master/JazzyVie
 **JellyViewPager**  
 特殊切换动画的ViewPager  
 项目地址：https://github.com/chiemy/JellyViewPager  
-效果图：![Renderings](https://github.com/chiemy/JellyViewPager/raw/master/capture.gif)  
+![Renderings](https://github.com/chiemy/JellyViewPager/raw/master/capture.gif)  
 
 **Android-DirectionalViewPager**  
 支持横向和纵向(垂直)的ViewPager  

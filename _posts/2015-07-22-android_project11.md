@@ -17,7 +17,7 @@ Android优秀开源项目汇总——个性化控件(View)篇(TipView)介绍
 Material Design 风格的 Toast，类似 Google inbox 中的提示  
 项目地址：https://github.com/MrEngineer13/SnackBar  
 Demo地址：https://play.google.com/store/apps/details?id=com.mrengineer13.snackbar.sample  
-效果图：![Renderings](https://camo.githubusercontent.com/67a39af16f3d46631567c1f7bd7dcddeb3c4c9e9/687474703a2f2f6d6174657269616c2d64657369676e2e73746f726167652e676f6f676c65617069732e636f6d2f696d616765732f636f6d706f6e656e74732d746f617374732d73706563732d737065635f746f6173745f30335f315f6c617267655f6d6470692e706e67)  
+![Renderings](https://camo.githubusercontent.com/67a39af16f3d46631567c1f7bd7dcddeb3c4c9e9/687474703a2f2f6d6174657269616c2d64657369676e2e73746f726167652e676f6f676c65617069732e636f6d2f696d616765732f636f6d706f6e656e74732d746f617374732d73706563732d737065635f746f6173745f30335f315f6c617267655f6d6470692e706e67)  
 
 <!-- more -->
 
@@ -37,23 +37,21 @@ Demo地址：https://play.google.com/store/apps/details?id=com.haarman.supertool
 为其他View添加角标等  
 项目地址：https://github.com/jgilfelt/android-viewbadger  
 Demo地址：https://github.com/Trinea/TrineaDownload/blob/master/android-viewbadger.apk?raw=true  
-效果图：![Renderings](https://github-camo.global.ssl.fastly.net/a705a3e88c75ae2394943bd7c56f725697616ea8/687474703a2f2f7777772e6a65666667696c66656c742e636f6d2f766965776261646765722f76622d31612e706e67)  
 
 **SuperToasts**  
 更丰富样式的toast，支持Button、Progress、Horizontal Progress样式、支持进入动画、支持撤销及其动画设置  
 项目地址：https://github.com/JohnPersano/SuperToasts  
 Demo地址：https://play.google.com/store/apps/details?id=com.supertoastsdemo  
-效果图：![SuperButtonToast](http://i1331.photobucket.com/albums/w597/JohnPersano/supertoasts_githubimage_zps8a5ceb7c.png)  
 
 **UndoBar**  
 屏幕底部显示取消或是确认的PopupWindows  
 项目地址：https://github.com/soarcn/UndoBar  
-效果图：![Renderings](https://github.com/soarcn/UndoBar/blob/master/art/redo.png?raw=true)  
+![Renderings](https://github.com/soarcn/UndoBar/blob/master/art/redo.png?raw=true)  
 
 **UndoBar**  
 屏幕底部显示取消或是确认某操作  
 项目地址：https://github.com/jenzz/Android-UndoBar  
-效果图：![Renderings](https://raw.github.com/jenzz/Android-UndoBar/master/assets/Screenshot2.png)  
+![Renderings](https://raw.github.com/jenzz/Android-UndoBar/master/assets/Screenshot2.png)  
 
 **Android-ActionItemBadge**  
 可以在ActionBar的MenuItem上显示一个小角标  
@@ -68,7 +66,7 @@ Demo地址：https://play.google.com/store/apps/details?id=com.supertoastsdemo
 **Droppy**  
 项目地址：https://github.com/shehabic/Droppy
 特点：A simple yet-powerful and fully customizable Android drop-down menu. It supports Text with/without Icons, Separators, and even fully customized views.
-效果图: ![Droppy](https://raw.githubusercontent.com/shehabic/Droppy/screenshots/Droppy_Screenshot.png)
+![Droppy](https://raw.githubusercontent.com/shehabic/Droppy/screenshots/Droppy_Screenshot.png)
 
 
 
