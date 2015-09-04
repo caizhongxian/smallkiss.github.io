@@ -3,7 +3,7 @@ layout : post
 title : "个性化控件(View)篇(GraphView)"
 category : 开源项目
 duoshuo: true
-date : 2015-07-21
+date : 2015-07-27
 tags : [Project , Android ]
 SyntaxHihglighter: true
 shTheme: shThemeMidnight # shThemeDefault  shThemeDjango  shThemeEclipse  shThemeEmacs  shThemeFadeToGrey  shThemeMidnight  shThemeRDark
@@ -16,8 +16,6 @@ Android优秀开源项目汇总——个性化控件(View)篇(GraphView)介绍
 项目地址：https://github.com/diogobernardino/WilliamChart  
 Demo地址：https://play.google.com/store/apps/details?id=com.db.williamchartdemo  
 Demo项目：https://github.com/diogobernardino/WilliamChart/tree/master/sample  
-![Renderings](https://github.com/diogobernardino/WilliamChart/raw/master/art/linechart.gif)![Renderings](https://github.com/diogobernardino/WilliamChart/raw/master/art/barchart.gif)![Renderings](https://github.com/diogobernardino/WilliamChart/raw/master/art/stackbarchart.gif)  
-
 <div>  
   <img src='https://github.com/diogobernardino/WilliamChart/raw/master/art/linechart.gif' width="300px"/>  
   <img src='https://github.com/diogobernardino/WilliamChart/raw/master/art/barchart.gif' width="300px"/>  
@@ -56,8 +54,6 @@ Demo地址：https://github.com/xcltapestry/XCL-Charts/blob/master/XCL-Charts-de
 Android 图表库，支持柱状图、分层柱状图、饼状图、线性图  
 项目地址：https://github.com/blackfizz/EazeGraph  
 Demo地址：https://play.google.com/store/apps/details?id=org.eazegraph.app  
-
-
 
 **HelloCharts for Android**  
 支持折线图、柱状图、饼图、气泡图、组合图；支持预览、放大缩小，滚动，部分图表支持动画；支持 Android 2.2 以上  
