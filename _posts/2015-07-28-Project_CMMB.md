@@ -14,7 +14,7 @@ shTheme: shThemeMidnight # shThemeDefault  shThemeDjango  shThemeEclipse  shThem
 
 **在中国电子科技集团第41研究所第一次联调现场。**
 
-![联调现场](/res/img/blog/2015/05/23/spot.png)
+![联调现场](/res/img/blog/2015/07/28/spot.png)
 
 <!-- more -->
 
@@ -24,7 +24,7 @@ shTheme: shThemeMidnight # shThemeDefault  shThemeDjango  shThemeEclipse  shThem
 下面这张图是我们团队在项目开发过程中，利用版本控制系统针对此项目的一个记录，算作我们辛勤劳动的一个见证吧。
 还请大家在看的时候可以耐心点，不强求，毕竟还有一个**read more**，重点不能落下 ^_^ 。
 		
-![project_work_flow](/res/img/blog/2015/05/23/project_work_flow.png)
+![project_work_flow](/res/img/blog/2015/07/28/project_work_flow.png)
 
 **与中国电子科技集团第41研究所第一次联调结果**
 
@@ -39,7 +39,7 @@ shTheme: shThemeMidnight # shThemeDefault  shThemeDjango  shThemeEclipse  shThem
 为实现对数字广播电视信号传输质量的测试与分析，本项目利用信号发生器、信号分析仪、测试电缆、计算机等相关设备对信号发生器产生的
 原始IQ数据进行获取、分析和输出显示，并与信号分析仪同步进行比较，测试其正确性。如下图所示：
 
-![原理图](/res/img/blog/2015/05/23/IQ_Analyse.png)
+![原理图](/res/img/blog/2015/07/28/IQ_Analyse.png)
 
 ---
 
@@ -47,11 +47,11 @@ shTheme: shThemeMidnight # shThemeDefault  shThemeDjango  shThemeEclipse  shThem
 
 下面这张图是我在原有基础上稍微细化而得到的，整体软件架构设计**基本上**从**模块化**角度出发，为什么说**基本上**，因为在最初软件开发过程中，缺少与合作方沟通，导致某些软件需求模棱两可，这是造成软件不断修改已有部分的罪魁祸首，也是我最想吐槽的地方，在这里就不说了。And从中可以看出沟通的重要性！！！相信在后期的优化过程中，能把软件性能进一步提升。从宏观上看，软件基本上划分为三个层次:**原始数据读写控制层**、**数据处理层**、**图谱显示层**,再细划分，每个层次又分为若干不同模块。具体见图。
 
-![整体设计架构图](/res/img/blog/2015/05/23/frame_work.png)
+![整体设计架构图](/res/img/blog/2015/07/28/frame_work.png)
 
 **软件模块化遇到的问题(个人见解)**
 
-为什么会有三个版本？答：每半年一次中期监理，为了更好的过渡，有了这三个版本。
+为什么会有三个版本？答：**每半年一次中期监理，为了更好的过渡，有了这三个版本。**
 
 * 第一版软件
 		
@@ -67,9 +67,11 @@ shTheme: shThemeMidnight # shThemeDefault  shThemeDjango  shThemeEclipse  shThem
 		
 * 第三版软件(划时代呀)
 	
-	第三版软件完全抛弃了之前两版的设计思想(**在我看来，么的思想**)，加之对需求分析的进一步明朗，在boss(有两个boss，这是我boss，另一个boss是让时间紧迫起来的那啥，哼)的建议下，重新设计了一套框架，该框架将原始数据采集、数据处理层、图谱显示层严格的划分出来，对各个具体子模块进行了从内到外的封装，包括对可能共享的全局变量通通定义了相应的接口，对可能的共享数据进行了**加锁**处理(每个功能子模块单独开一个图谱显示线程(委托)，只有一个数据处理线程)，防止由于**不同实例对象同时访问同一组数据造成数据错误(此种情况根本无法调试，因为模拟仿真数据量过于庞大，且处理流程复杂，结果很难追踪)**。
+	第三版软件完全抛弃了之前两版的设计思想，加之对需求分析的进一步明朗，在boss(有两个boss，这是我boss，另一个boss是让时间紧迫起来的那啥，哼，无贬低的意思)的建议下，重新设计了一套框架，整体框架**比拟MVC**，将原始数据采集、数据处理层、图谱显示层严格的划分出来，对各个具体子模块从接口定义到功能实现进行了重新规划，在设计过程中，充分考虑所需变量的作用域和生存期，哪些变量需要全局共享，哪些变量仅仅是临时变量，都做了详细考虑，在函数
 	
-	同时，在数据处理显示过程中，采用了**双缓冲技术**，使结果显示列表在50ms刷新频率下不闪频。整体框架引用了开源项目.dll--DockPanel,窗口定制性增强。
+	嵌套深度较广，涉及数据对象或变量众多的地方，对可能存在的内存泄漏进行了分析处理，防患于未然。为避免不同功能模块访问同一共享数据对象造成数据错误，进行了**加锁**处理，同时，每个功能子模块图谱显示采用**异步委托**，防止与主线程冲突。
+	
+	在数据处理显示过程中，对控件进行了重构，加入了**双缓冲技术**，使结果显示列表在50ms刷新频率下不闪频。整体框架引用了开源项目.dll--DockPanel,窗口定制性增强。关于DockPanel,Repo地址：[https://github.com/SmallKiss/DockPanel](https://github.com/SmallKiss/DockPanel)。
 		
 **软件开发过程中可能的内存泄漏**
 	
@@ -86,7 +88,7 @@ shTheme: shThemeMidnight # shThemeDefault  shThemeDjango  shThemeEclipse  shThem
 幅度时间图，IQ时间图等。本地计算机通过网线与主机(信号分析仪)连接，通过编写的**网络传输工具软件(按照SCPI协议)**将原始IQ数据保
 存在本地计算机，供本机软件进行IQ分析测试，并与实际信号分析仪分析结果进行对比，验证其正确性。
 
-![IQ分析原理图](/res/img/blog/2015/05/23/pic5.png)
+![IQ分析原理图](/res/img/blog/2015/07/28/pic5.png)
 
 ---
 
@@ -98,11 +100,11 @@ shTheme: shThemeMidnight # shThemeDefault  shThemeDjango  shThemeEclipse  shThem
 
 * ###功率分析模块预期目标(注:**由于涉及一些保密信息，关键流程略去**)
 
-	![功率测量](/res/img/blog/2015/05/23/power_analyse.png)
+	![功率测量](/res/img/blog/2015/07/28/power_analyse.png)
 	
 * ###调制精度测量预期目标(注:**同上**)
 		
-	![调制精度](/res/img/blog/2015/05/23/demodulation.png)
+	![调制精度](/res/img/blog/2015/07/28/demodulation.png)
 	
 	
 **项目涉及到的FFT变换算法可参照链接加以理解**[http://smallkiss.github.io/blog/2015/05/21/FFT.html](http://smallkiss.github.io/blog/2015/05/21/FFT.html)
@@ -123,7 +125,7 @@ shTheme: shThemeMidnight # shThemeDefault  shThemeDjango  shThemeEclipse  shThem
 
 	计算选择的频率范围内的平均功率，一方面可以供通道功率显示模块显示，另一方面可以供ACP模块调用计算邻道功率比。
 
-	![通道功率计算公式](/res/img/blog/2015/05/23/pic11.png)
+	![通道功率计算公式](/res/img/blog/2015/07/28/pic11.png)
 
 	**n2,n1:** 信道内像素的数量
 
@@ -139,17 +141,17 @@ shTheme: shThemeMidnight # shThemeDefault  shThemeDjango  shThemeEclipse  shThem
 
 * **邻道功率比**
 
-	![邻道功率比](/res/img/blog/2015/05/23/adjacent.png)
+	![邻道功率比](/res/img/blog/2015/07/28/adjacent.png)
 	
 	具体计算略去。
 	
 	输出信号显示如下图
 	
-	![输出显示](/res/img/blog/2015/05/23/main.png)
+	![输出显示](/res/img/blog/2015/07/28/main.png)
 	
 	相邻信道设置参数如下图
 	
-	![邻道设置](/res/img/blog/2015/05/23/adjcent_set.png)
+	![邻道设置](/res/img/blog/2015/07/28/adjcent_set.png)
 
 
 * **肩部衰减**
@@ -192,11 +194,11 @@ shTheme: shThemeMidnight # shThemeDefault  shThemeDjango  shThemeEclipse  shThem
 	
 	计算过程如下:
 	
-	![CCDF功率互补累积分布函数](/res/img/blog/2015/05/23/ccdf.png)
+	![CCDF功率互补累积分布函数](/res/img/blog/2015/07/28/ccdf.png)
 	
 	输出显示如下:
 	
-	![CCDF功率互补累积分布函数输出](/res/img/blog/2015/05/23/ccdf_result.png)
+	![CCDF功率互补累积分布函数输出](/res/img/blog/2015/07/28/ccdf_result.png)
 	
 * **占用带宽**
 
@@ -212,7 +214,7 @@ shTheme: shThemeMidnight # shThemeDefault  shThemeDjango  shThemeEclipse  shThem
 	
 	算法如下式：
 	
-	![Welch算法公式](/res/img/blog/2015/05/23/pic12.png)
+	![Welch算法公式](/res/img/blog/2015/07/28/pic12.png)
 	
 	但若L增加M减小，则分辨率下降；相反，若L减小M增加，虽然估计的偏差减小，但估计的方差增大。所以在实际中必须兼顾分辨率与方差的要求适当选取L和M的值。在分段时为了减小因分段数增加给分辨率带来的影响，采取各段数据有一定重叠的方法。
 
@@ -236,7 +238,7 @@ shTheme: shThemeMidnight # shThemeDefault  shThemeDjango  shThemeEclipse  shThem
 	
 	**物理层结构**
 	
-	![物理层结构](/res/img/blog/2015/05/23/plch_content.png)
+	![物理层结构](/res/img/blog/2015/07/28/plch_content.png)
 	
 	物理层对每个物理层逻辑信道进行单独编码和调制。
 	
@@ -246,7 +248,7 @@ shTheme: shThemeMidnight # shThemeDefault  shThemeDjango  shThemeEclipse  shThem
 	
 	**物理层功能图示**
 	
-	![物理层功能图示](/res/img/blog/2015/05/23/function.png)
+	![物理层功能图示](/res/img/blog/2015/07/28/function.png)
 	
 * **帧结构**
 
@@ -256,25 +258,25 @@ shTheme: shThemeMidnight # shThemeDefault  shThemeDjango  shThemeEclipse  shThem
 	
 	**帧结构图示**
 	
-	![帧结构图示](/res/img/blog/2015/05/23/frame.png)
+	![帧结构图示](/res/img/blog/2015/07/28/frame.png)
 	
 	**一个信标=发射机标识信号(TxID)+2个同步信号**
 	
 	**信标图示**
 	
-	![信标图示](/res/img/blog/2015/05/23/xinbiao.png)
+	![信标图示](/res/img/blog/2015/07/28/xinbiao.png)
 	
 	**OFDM符号=循环前缀(CP:per CP 51.2us)+OFDM数据体(per 460.8us)**
 	
 	**OFDM符号图示**
 	
-	![OFDM符号](/res/img/blog/2015/05/23/ofdm.png)
+	![OFDM符号](/res/img/blog/2015/07/28/ofdm.png)
 	
 	**发射机标志信号、同步信号和相邻OFDM符号之间，通过保护间隔(GI:per GI 2.4us)相互交叠,相邻符号经过窗函数W(t)加权后，前一个符号尾部GI与后一个符号头部GI相互交叠。**
 	
 	**保护间隔图示**
 	
-	![保护间隔](/res/img/blog/2015/05/23/gi.png)
+	![保护间隔](/res/img/blog/2015/07/28/gi.png)
 	
 	注:**符号交叠时，每时隙两段同步信号之间无保护间隔**
 	
@@ -290,22 +292,22 @@ shTheme: shThemeMidnight # shThemeDefault  shThemeDjango  shThemeEclipse  shThem
 	
 	+ 物理层带宽为**2M**
 		
-		![物理层带宽为2M](/res/img/blog/2015/05/23/analyse_2M.png)
+		![物理层带宽为2M](/res/img/blog/2015/07/28/analyse_2M.png)
 		
 	+ 物理层带宽为**8M**
 	
-		![物理层带宽为8M](/res/img/blog/2015/05/23/analyse_8M.png)
+		![物理层带宽为8M](/res/img/blog/2015/07/28/analyse_8M.png)
 		
 	+ 1个OFDM符号**(460.8us)**
 	
-		![1个OFDM符号](/res/img/blog/2015/05/23/ofdm2.png)
+		![1个OFDM符号](/res/img/blog/2015/07/28/ofdm2.png)
 		
 	
 * **星座映射**
 
 	从左到右依次为**BPSK**、**QPSK**、**16QAM**
 	
-	![星座映射](/res/img/blog/2015/05/23/bpsk.png)
+	![星座映射](/res/img/blog/2015/07/28/bpsk.png)
 
 * **RS编码和字节交织**(此处省略)
 
@@ -323,7 +325,7 @@ shTheme: shThemeMidnight # shThemeDefault  shThemeDjango  shThemeEclipse  shThem
 
 	+ **获取同步信号初始位置**
 	
-		![同步信号初始位置计算方法](/res/img/blog/2015/05/23/tongbu.png)
+		![同步信号初始位置计算方法](/res/img/blog/2015/07/28/tongbu.png)
 		
 		其中
 		
@@ -341,7 +343,7 @@ shTheme: shThemeMidnight # shThemeDefault  shThemeDjango  shThemeEclipse  shThem
 		  
 		由于粗符号定时同步只要粗略确定的FFT窗口的位置,可设置一个门限THcoarse。,当估计度量函数的值大于该门限时,即认为该n值就是粗定时同步确定的主径位置。门限值的设定如下式所示
 		
-		![门限THcoarse](/res/img/blog/2015/05/23/coarse.png)
+		![门限THcoarse](/res/img/blog/2015/07/28/coarse.png)
 		
 		其中，**a可取0.9**
 		
@@ -361,7 +363,7 @@ shTheme: shThemeMidnight # shThemeDefault  shThemeDjango  shThemeEclipse  shThem
 				
 		以物理带宽为2MHz考虑
 		
-		![物理带宽为2MHz](/res/img/blog/2015/05/23/tongbu1.png)
+		![物理带宽为2MHz](/res/img/blog/2015/07/28/tongbu1.png)
 		
 		时域OFDM数据体为：**r(Position(i)：（Positon(i)+1023))**
 		
@@ -383,15 +385,35 @@ shTheme: shThemeMidnight # shThemeDefault  shThemeDjango  shThemeEclipse  shThem
 
 **IQ幅值波形**
 
-![pic1](/res/img/blog/2015/05/23/pic1.png)
+![pic1](/res/img/blog/2015/07/28/pic1.png)
 	
 **邻道功率比**
 
-![pic2](/res/img/blog/2015/05/23/pic2.png)
+![pic2](/res/img/blog/2015/07/28/pic2.png)
 	
 **占用带宽**
 
-![pic3](/res/img/blog/2015/05/23/pic3.png)
+![pic3](/res/img/blog/2015/07/28/pic3.png)
+
+**通道脉冲响应**
+
+![pic4](/res/img/blog/2015/07/28/cmmb5.png)
+
+**频谱不平坦度**
+
+![pic5](/res/img/blog/2015/07/28/cmmb2.png)
+
+**通道频率响应**
+
+![pic6](/res/img/blog/2015/07/28/cmmb3.png)
+
+**幅度误差**
+
+![pic7](/res/img/blog/2015/07/28/cmmb1.png)
+
+**IQ星座图**
+
+![pic8](/res/img/blog/2015/05/23/cmmb4.png)
 
 ---
 
