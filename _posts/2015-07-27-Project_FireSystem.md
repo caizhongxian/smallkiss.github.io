@@ -23,7 +23,12 @@ shTheme: shThemeMidnight # shThemeDefault  shThemeDjango  shThemeEclipse  shThem
 
 **软件部分界面图示**
 
-![软件界面](/res/img/blog/2015/07/27/firesystem.png)
+<div>  
+  <img src='/res/img/blog/2015/07/27/firesystem1.png' width="150px"/>  
+  <img src='/res/img/blog/2015/07/27/firesystem2.png' width="150px"/>  
+  <img src='/res/img/blog/2015/07/27/firesystem3.png' width="150px"/>  
+  <img src='/res/img/blog/2015/07/27/firesystem4.png' width="150px"/>  
+</div>
 
 <!-- more -->
 
