@@ -121,21 +121,21 @@ shTheme: shThemeMidnight # shThemeDefault  shThemeDjango  shThemeEclipse  shThem
     
   * **避免不必要的整数除法**
   
+		<pre class="brush: c; ">
+	
+		//不推荐的代码
+		int i， j， k， m；
+		m = i / j / k；
+		
+		//推荐的代码
+		int i， j， k， m；
+		m = i / (j * k)；
+		</pre>
+		
 		整数除法是整数运算中最慢的，所以应该尽可能避免。一种可能减少整数除法的地方是连除，这里除法可以由乘法代替。
 		
 		这个替换的副作用是有可能在算乘积时溢出，所以只能在一定范围的除法中使用。
   	
-		<pre class="brush: c; ">
-	
-			//不推荐的代码
-			int i， j， k， m；
-			m = i / j / k；
-			
-			//推荐的代码
-			int i， j， k， m；
-			m = i / (j * k)；
-		</pre>
-		
 	* **使用增量和减量操作符**
 	
 		在使用到加一和减一操作时尽量使用增量和减量操作符，**因为增量符语句比赋值语句更快，原因在于对大多数CPU来说，对内存字的增、减量操作不必明显地使用取内存和写内存的指令**。例如：
