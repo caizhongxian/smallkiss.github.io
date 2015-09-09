@@ -9,11 +9,11 @@ SyntaxHihglighter: true
 shTheme: shThemeMidnight # shThemeDefault  shThemeDjango  shThemeEclipse  shThemeEmacs  shThemeFadeToGrey  shThemeMidnight  shThemeRDark
 ---
 
-1. **选择合适的算法和数据结构**
+**选择合适的算法和数据结构**
 
-	选择一种合适的数据结构很重要，如果在一堆随机存放的数中使用了大量的插入和删除指令，那使用链表要快得多。数组与指针语句具有十分密切的关系，一般来说，指针比较灵活简洁，而数组则比较直观，容易理解。
-	
-	对于大部分的编译器，使用指针比使用数组生成的代码更短，执行效率更高。
+选择一种合适的数据结构很重要，如果在一堆随机存放的数中使用了大量的插入和删除指令，那使用链表要快得多。数组与指针语句具有十分密切的关系，一般来说，指针比较灵活简洁，而数组则比较直观，容易理解。
+
+对于大部分的编译器，使用指针比使用数组生成的代码更短，执行效率更高。
 
 <!-- more -->
 
@@ -119,7 +119,7 @@ shTheme: shThemeMidnight # shThemeDefault  shThemeDjango  shThemeEclipse  shThem
 		}
 		</pre>
     
-  * **避免不必要的整数除法**
+	* **避免不必要的整数除法**
   
 		<pre class="brush: c; ">
 	
