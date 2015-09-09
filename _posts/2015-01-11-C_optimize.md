@@ -19,8 +19,8 @@ shTheme: shThemeMidnight # shThemeDefault  shThemeDjango  shThemeEclipse  shThem
 
 <!-- more -->
 
-	<pre class="brush: c; ">
-	
+<pre class="brush: c; ">
+
 	//使用数组索引
 	
 	for(;;)
@@ -34,8 +34,8 @@ shTheme: shThemeMidnight # shThemeDefault  shThemeDjango  shThemeEclipse  shThem
 	{
 		A=*(p++);
 	}
-	
-	</pre>
+
+</pre>
 
 1. **使用尽量小的数据类型**
 
@@ -122,7 +122,7 @@ shTheme: shThemeMidnight # shThemeDefault  shThemeDjango  shThemeEclipse  shThem
   
   	整数除法是整数运算中最慢的，所以应该尽可能避免。一种可能减少整数除法的地方是连除，这里除法可以由乘法代替。这个替换的副作用是有可能在算乘积时溢出，所以只能在一定范围的除法中使用。
   	
-  	<pre class="brush: c; ">
+		<pre class="brush: c; ">
 	
 		//不推荐的代码
 		int i， j， k， m；
@@ -142,15 +142,15 @@ shTheme: shThemeMidnight # shThemeDefault  shThemeDjango  shThemeEclipse  shThem
 		模仿大多数微机汇编语言为例，产生的代码类似于：
 		
 		<pre class="brush: c; ">
-		move A，x      ;把x从内存取出存入累加器A
-    add A，1       ;累加器A加1
-		store x        ;把新值存回x
+			move A，x      ;把x从内存取出存入累加器A
+	    add A，1       ;累加器A加1
+			store x        ;把新值存回x
 		</pre>
 		
 		如果使用增量操作符，生成的代码如下：
 		
 		<pre class="brush: c; ">
-		incr x           ;x加1
+			incr x           ;x加1
 		</pre>
 		
 		显然，不用取指令和存指令，增、减量操作执行的速度加快，同时长度也缩短了。
@@ -165,16 +165,16 @@ shTheme: shThemeMidnight # shThemeDefault  shThemeDjango  shThemeEclipse  shThem
 		
 		<pre class="brush: c; ">
 	
-		//不推荐的代码
-		float a， b， c， d， e， f；
-		e = b * c / d；
-		f = b / d * a；
+			//不推荐的代码
+			float a， b， c， d， e， f；
+			e = b * c / d；
+			f = b / d * a；
 		
-		//推荐的代码
-		float a， b， c， d， e， f；
-		const float t(b / d)；
-		e = c * t；
-		f = a * t；
+			//推荐的代码
+			float a， b， c， d， e， f；
+			const float t(b / d)；
+			e = c * t；
+			f = a * t；
 		</pre>
 		
 1. **结构体成员的布局**	
