@@ -10,9 +10,6 @@ members:
 
   - name: 正则表达式测试
     link: http://tool.oschina.net/regex
-
-  - name: emoji
-    link: http://emoji.muan.co/#
     
   - name: 进制转换
     link: http://tool.oschina.net/hexconvert
@@ -52,6 +49,15 @@ members:
     
   - name: 二维码生成器
     link: http://pro.wwei.cn/
+    
+  - name: C++新标准学习
+    link: http://cpp1x.org/compiler-support.html
+    
+  - name: google hosts
+    link: http://googlehost.lofter.com/
+    
+  - name: google mirror
+    link: http://www.itechzero.com/google-mirror-sites-collect.html
     
     
 
