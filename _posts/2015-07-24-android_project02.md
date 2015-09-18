@@ -16,7 +16,6 @@ Android优秀开源项目汇总——个性化控件(View)篇(ActionBar)介绍
 项目地址：https://github.com/ManuelPeinado/RefreshActionItem  
 Demo地址：https://play.google.com/store/apps/details?id=com.manuelpeinado.refreshactionitem.demo  
 APP示例：The New York Times，DevAppsDirect.  
-![smallkiss](http://a2.qpic.cn/psb?/V13ROnLv2MSKxZ/QYGDsx5VCzydBaU1PR81Yb.Vbof5tDba5ySyLoGw.Oo!/b/dHUBAAAAAAAA&bo=DgaAAgAAAAADAK8!&rf=viewer_4)
 
 <!-- more -->
 
@@ -33,7 +32,6 @@ ListView向下滚动逐渐显现的ActionBar
 项目地址：https://github.com/ManuelPeinado/FadingActionBar  
 Demo地址：https://play.google.com/store/apps/details?id=com.manuelpeinado.fadingactionbar.demo  
 APP示例：google music，知乎  
-![smallkiss](http://a3.qpic.cn/psb?/V13ROnLv2MSKxZ/KM3tk6*oitw2PASFwRRedZg*4nS63VmJbuRMb8pdWIg!/b/dG4AAAAAAAAA&bo=9QSAAgAAAAADAFY!&rf=viewer_4)
 
 **NotBoringActionBar**  
 google music下拉收缩的ActionBar  
@@ -48,14 +46,12 @@ ActionBarSherlock
 Demo地址：  
 https://play.google.com/store/apps/details?id=com.actionbarsherlock.sample.demos  
 APP示例：太多了。。现在连google都在用  
-![smallkiss](http://a3.qpic.cn/psb?/V13ROnLv2MSKxZ/iuAyMbXAdHkiIN6eF6NjWgjsueThB2nKC34pA2F3jvQ!/b/dG4AAAAAAAAA&bo=hAOqAQAAAAADAAk!&rf=viewer_4)  
 
 **GlassActionBar**  
 类似玻璃的有一定透明度的ActionBar  
 项目地址：https://github.com/ManuelPeinado/GlassActionBar  
 Demo地址：https://play.google.com/store/apps/details?id=com.manuelpeinado.glassactionbardemo  
 APP示例：google music  
-![smallkiss](http://a3.qpic.cn/psb?/V13ROnLv2MSKxZ/8h0O94SjxFwyiaoRFq0cB.mzMQdisfaRQT9gI8PBHVI!/b/dIgBAAAAAAAA&bo=eQOAAgAAAAADB9o!&rf=viewer_4)  
 
 
 

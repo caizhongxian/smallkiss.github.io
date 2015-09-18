@@ -14,7 +14,6 @@ Android优秀开源项目汇总——个性化控件(View)篇(GridView)介绍
 **GridView with Header and Footer**  
 和`ListView`一样带头部和底部的`GridView`，用法和`ListView`一样  
 项目地址：https://github.com/liaohuqiu/android-GridViewWithHeaderAndFooter  
-![Screen Shot](http://a3.qpic.cn/psb?/V13ROnLv2MSKxZ/v7lLnyyL3*zPdf2p4uA.DeJwet98Z0ULA.hVPfT.*.s!/b/dG4AAAAAAAAA&bo=OQPgAQAAAAADB*k!&rf=viewer_4)  
 
 <!-- more -->
 
@@ -67,7 +66,6 @@ Demo地址：https://github.com/Trinea/trinea-download/blob/master/draggable-gri
 一个支持跨行和跨列可变Item大小的GridView  
 项目地址：https://github.com/felipecsl/AsymmetricGridView  
 Demo地址：https://play.google.com/store/apps/details?id=com.felipecsl.asymmetricgridview.app  
-![Renderings](http://a3.qpic.cn/psb?/V13ROnLv2MSKxZ/ZgCkQD2lBOOy.kgk0PgL9npAhiPTOM.RGaX41Rf9qe0!/b/dHYBAAAAAAAA&bo=YQFaAgAAAAADAB0!&rf=viewer_4)  
 
 
 

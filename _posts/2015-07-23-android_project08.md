@@ -44,7 +44,6 @@ Demo地址：https://github.com/markushi/android-circlebutton/blob/master/exampl
 iOS’s segmented controls的实现  
 项目地址：https://github.com/vinc3m1/android-segmentedradiobutton  
 Demo地址：https://github.com/thquinn/DraggableGridView/blob/master/bin/DraggableGridViewSample.apk?raw=true  
-![Renderings](http://a2.qpic.cn/psb?/V13ROnLv2MSKxZ/3ZRtM6APuUQ1*mor1lyhTkMLA4LM.yJFbE2.Kc7Haxk!/b/dHUBAAAAAAAA&bo=QAGpAAAAAAADAM0!&rf=viewer_4)  
 
 **Chips EditText Library**  
 支持国家名字联想从而选择显示该国国旗的EditText，实际就是通过SpannableStringBuilder实现  
@@ -72,7 +71,6 @@ Demo地址：https://github.com/makovkastar/FloatingActionButton/tree/master/
 **Calligraphy**  
 让我们在android开发中使用自定义字体变得更加简单  
 项目地址 ：https://github.com/chrisjenx/Calligraphy  
-![Renderings](http://a2.qpic.cn/psb?/V13ROnLv2MSKxZ/N26l1DicO71atj6evfHpGf*2mHYI3MtAt4g1FtslnUw!/b/dHUBAAAAAAAA&bo=xgHKAgAAAAADACo!&rf=viewer_4)  
 
 **CreditsRoll**  
 类似星球大战字幕效果的TextView  
@@ -100,21 +98,17 @@ Demo地址：http://play.google.com/store/apps/details?id=net.frakbot.jumpingbea
 一个不用图片就可以帮助我们创建出漂亮按钮的库。  
 项目地址：https://github.com/medyo/fancybuttons  
 Demo地址：https://github.com/medyo/fancybuttons/tree/master/samples  
-![Renderings](http://a3.qpic.cn/psb?/V13ROnLv2MSKxZ/4*78sE4cgdhdnuROSQTfMTulQMGcc0yoNajNK9xJx6I!/b/dG4AAAAAAAAA&bo=LAEVAgAAAAADAB8!&rf=viewer_4)
-![Renderings](http://a2.qpic.cn/psb?/V13ROnLv2MSKxZ/ERUJYQM.Gqeh2CwtzqRKR1z49b6zvsG0phJkcD9ltoo!/b/dIoBAAAAAAAA&bo=LAEVAgAAAAADAB8!&rf=viewer_4)  
 
 **Android-RobotoTextView**  
 一个实现了所有Roboto字体的TextView，包括新出的Roboto Slab字体。  
 项目地址：https://github.com/johnkil/Android-RobotoTextView  
 Demo地址：http://play.google.com/store/apps/details?id=com.devspark.robototextview  
 Demo项目：https://github.com/johnkil/Android-RobotoTextView/tree/master/robototextview-sample  
-<img height="400px" src="http://a1.qpic.cn/psb?/V13ROnLv2MSKxZ/qXOcnrt6ic4pSE83xwqXrKr6okZezQly0HL283Zow*s!/b/dIYBAAAAAAAA&bo=gAJyBAAAAAADANE!&rf=viewer_4" />>  
 
 **Android-WizardPager**  
 一个表单向导库  
 项目地址：https://github.com/romannurik/android-wizardpager  
 Demo项目：https://github.com/str4d/android-wizardpager/tree/textfield  
-<img height="400px" src="http://a3.qpic.cn/psb?/V13ROnLv2MSKxZ/oq7ozZJAjdhjHCF9O42TOkB.KNkcCYXc85uEml*pfP0!/b/dIgBAAAAAAAA&bo=nQGxAgAAAAADAAo!&rf=viewer_4" />  
 
 **RippleView**  
 一个实现了 Android L 上才引入的点击按钮后出现水波纹效果的按钮  
@@ -126,7 +120,6 @@ Demo项目：https://github.com/siriscac/RippleView/tree/master/RippleViewExampl
 一个实现Material Design Ripple效果的库，支持Android API 9+以上版本。  
 项目地址：https://github.com/traex/RippleEffect  
 Demo项目：https://github.com/traex/RippleEffect/tree/master/sample  
-![Renderings](http://a2.qpic.cn/psb?/V13ROnLv2MSKxZ/tpbRMuQ2lGE7RVDxwE5AAmbHiJvG3pjO5TDdbty.U0A!/b/dIoBAAAAAAAA&bo=IAOQAQAAAAADAJc!&rf=viewer_4)  
 
 **Android Floating Label Widgets**  
 包含一系列控件，这些控件特点是：有默认值，当值不为空时默认值浮动到上面变为提示  
@@ -141,7 +134,6 @@ EditText 的 Material Design 实现。包含 [Google Material Design Spec](http:
 **MultiActionTextView**  
 可以分别给TextView中的某几个字设置点击事件的TextView  
 项目地址：https://github.com/ajaysahani/MultiActionTextView  
-![Renderings](http://a1.qpic.cn/psb?/V13ROnLv2MSKxZ/qXOcnrt6ic4pSE83xwqXrKr6okZezQly0HL283Zow*s!/b/dIYBAAAAAAAA&bo=gAJyBAAAAAADB9Y!&rf=viewer_4)  
 
 **ToggleButton**  
 状态切换的 Button，类似 iOS，用 View 实现  

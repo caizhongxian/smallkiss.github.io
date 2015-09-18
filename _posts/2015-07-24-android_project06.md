@@ -15,7 +15,6 @@ Android优秀开源项目汇总——个性化控件(View)篇(ImageView)介绍
 ImageView允许四个角的每一个有不同的半径值。也允许椭圆形、圆形的形状或者边  
 项目地址：https://github.com/pungrue26/SelectableRoundedImageView  
 Demo地址：https://play.google.com/store/apps/details?id=com.joooonho  
-![Renderings](http://a3.qpic.cn/psb?/V13ROnLv2MSKxZ/ki*cEOLHarU9uXu1KdH3D6WVK7SwjJsWnh.sOHKl*NA!/b/dGsAAAAAAAAA&bo=SQNUAgAAAAADBz4!&rf=viewer_4)  
 
 <!-- more -->
 
@@ -38,7 +37,6 @@ Demo地址：https://github.com/Trinea/TrineaDownload/blob/master/imageviewex-de
 **RoundedImageView**  
 带圆角的ImageView  
 项目地址：https://github.com/vinc3m1/RoundedImageView  
-![Renderings](http://a2.qpic.cn/psb?/V13ROnLv2MSKxZ/N5u3APtYUhL3r1k*E*FCR3CGIkpNc14ScQi0wbBFlKA!/b/dHUBAAAAAAAA&bo=LAEVAgAAAAADBxg!&rf=viewer_4)  
 
 **ColorArt**  
 根据图片的均色设置背景色显示文字和图片，类似itune11中效果  
@@ -48,7 +46,6 @@ Demo地址：https://github.com/Trinea/TrineaDownload/blob/master/color-art-demo
 **CircleImageView**  
 圆形的ImageView  
 项目地址：https://github.com/hdodenhof/CircleImageView  
-![Renderings](http://a3.qpic.cn/psb?/V13ROnLv2MSKxZ/W8IIj5rDvgQAH*4UH7UaB6Q3gLG0JXYjdcbBOC0XzYU!/b/dHYBAAAAAAAA&bo=HALAAwAAAAADAPg!&rf=viewer_4)  
 
 **ImageViewZoom**  
 支持放大和平移的ImageView  
@@ -62,17 +59,14 @@ APP示例：https://play.google.com/store/apps/details?id=com.aviary.android.fea
 **CustomShapeImageView**  
 各种形状的ImageView, 相比上面的圆形ImageView，多了更多形状  
 项目地址：https://github.com/MostafaGazar/CustomShapeImageView  
-![Renderings](http://a3.qpic.cn/psb?/V13ROnLv2MSKxZ/44ZAiCYVEMQRJ8LO8X2rqZqmcLo96wxEIx.mQJiaLWM!/b/dG4AAAAAAAAA&bo=gAJyBAAAAAADANE!&rf=viewer_4)  
 
 **Shape Image View**  
 可以自定义各种形状的ImageView, 并且支持边框  
 项目地址：https://github.com/siyamed/android-shape-imageview  
-<img height="200px" src="http://a2.qpic.cn/psb?/V13ROnLv2MSKxZ/DG6bFEWn.wuWFRQsAoTAKYvAPKm9bCh0BXCHE.GZLJY!/b/dIoBAAAAAAAA&bo=gAI6BAAAAAADAJk!&rf=viewer_4" /><img height="200px" src="http://a3.qpic.cn/psb?/V13ROnLv2MSKxZ/HYv4FbCcQbPPno6iTi92Zs9C4piscfm8kq4maPEog1w!/b/dG4AAAAAAAAA&bo=gAI6BAAAAAADAJk!&rf=viewer_4"/>  
 
 **TextDrawable**  
 一个用于生成带有文本或者字母的图片的轻量级库。扩展自Drawable，因此可用于现有/自定义/网络等ImageView类，并且包含一个流接口用于创建drawables以及一个定制的ColorGenerator  
 项目地址：https://github.com/amulyakhare/TextDrawable  
-![Renderings](http://a2.qpic.cn/psb?/V13ROnLv2MSKxZ/kMOmGvm1ccpAVE4Cjh0d0Hvx6gSYcDFm3Qg1aV6yi4Y!/b/dHUBAAAAAAAA&bo=2QEgAwAAAAADB9k!&rf=viewer_4)  
 
 
 

@@ -30,7 +30,6 @@ Demo地址：https://github.com/flavienlaurent/discrollview/raw/master/sample.ap
 **PullScrollView**  
 仿照新浪微博Android客户端个人中心的ScrollView，下拉背景伸缩回弹效果。  
 项目地址：https://github.com/MarkMjw/PullScrollView  
-![Renderings](http://a3.qpic.cn/psb?/V13ROnLv2MSKxZ/ELkRpIUpxiVLa8Z7ZzWk.gxXvih6gTQI0iXiGP.qPko!/b/dIgBAAAAAAAA&bo=gAJyBAAAAAADB9Y!&rf=viewer_4)  
 
 **ParallaxScrollView**  
 支持视差滚动的ScrollView ，背景图片的滚动速度小于ScrollView中子控件的滚动速度  

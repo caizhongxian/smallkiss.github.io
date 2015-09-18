@@ -36,9 +36,6 @@ APP示例：Foursquare, LinkedIn, Zappos, Rdio, Evernote Food, Plume, VLC for An
 支持类似Path的左下角动画旋转菜单及横向划出菜单、圆心弹出菜单  
 项目地址：https://github.com/daCapricorn/ArcMenu  
 APP示例：Path  
-![Renderings](http://a2.qpic.cn/psb?/V13ROnLv2MSKxZ/eSTKduHIiq6o5HOGnXwyEHF7ocqu3blu6d9pNP2BT4w!/b/dIcBAAAAAAAA&bo=4QDKAAAAAAADAA4!&rf=viewer_4)
-![smallkiss](http://a3.qpic.cn/psb?/V13ROnLv2MSKxZ/8xXSw*mjkGwmizfTChwjKv9WcEqAMHc2iS1V2zezexU!/b/dG4AAAAAAAAA&bo=8QDKAAAAAAADAB4!&rf=viewer_4)
-![smallkiss](http://a3.qpic.cn/psb?/V13ROnLv2MSKxZ/fpCKsBKFcaO.i.TjtrIEUYfFchOhDmU7QWOGne3oX9U!/b/dGsAAAAAAAAA&bo=JwE6AAAAAAADADk!&rf=viewer_4)  
 
 **android-satellite-menu**  
 类似Path的左下角动画旋转菜单  
@@ -77,7 +74,6 @@ Navigation Drawer的一个简单实现，滑动并以折叠方式打开菜单
 项目地址：https://github.com/mmBs/NavigationDrawerSI  
 Demo地址：https://play.google.com/store/apps/details?id=mmbialas.pl.navigationdrawersi  
 APP示例：https://play.google.com/store/apps/details?id=mmbialas.pl.navigationdrawersi  
-<img height="500px" src="http://a3.qpic.cn/psb?/V13ROnLv2MSKxZ/oL5OFxxGPDEORr24WW0979oVpXA4d.lx8giiOO2YU4U!/b/dHYBAAAAAAAA&bo=gALCAgAAAAADAGc!&rf=viewer_4" />  
 
 DragLayout  
 使用support.v4包下的ViewDragHelper实现QQ5.0侧滑  
@@ -94,8 +90,6 @@ Material Design 形式的展开折叠Icon
 Floating Action Button  
 悬浮的圆形菜单栏，支持组建滚动时自动隐藏及其他设置  
 项目地址：https://github.com/shamanland/floating-action-button  
-![Renderings](http://a2.qpic.cn/psb?/V13ROnLv2MSKxZ/vQ7DggT8bZgNMGJTxb.Nu99M5Ui5n5.LGcOPRToAbZs!/b/dIoBAAAAAAAA&bo=.AC4AQAAAAADAGQ!&rf=viewer_4)  
-  
 
 Side-Menu.Android  
 分类侧滑菜单，[Yalantis](http://yalantis.com/) 出品。  

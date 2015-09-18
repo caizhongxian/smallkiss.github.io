@@ -66,13 +66,7 @@ Demo地址：https://play.google.com/store/apps/details?id=lecho.lib.hellocharts
 项目地址：https://code.google.com/p/achartengine/  
 官网网址：http://www.achartengine.org/  
 APP示例：Wordpress Android，Google Analytics  
-<div>  
-  <img src='http://a3.qpic.cn/psb?/V13ROnLv2MSKxZ/ljaD4Ja9myAGq8xDBeXhOmLJ3mpSdR3*6lFREuxU5hc!/b/dHYBAAAAAAAA&bo=QAHgAQAAAAADAIU!&rf=viewer_4' width="150px"/>  
-  <img src='http://a3.qpic.cn/psb?/V13ROnLv2MSKxZ/AAxW2kMVd.XaI.HViCh7wltZQDF5sNE*2KaratYCGFc!/b/dIgBAAAAAAAA&bo=QAHgAQAAAAADAIU!&rf=viewer_4' width="150px"/>  
-  <img src='http://a2.qpic.cn/psb?/V13ROnLv2MSKxZ/f4ho7CZ4EAZDmc4p80vZLRsnSB15CHgEILP0Y2TZSDY!/b/dHUBAAAAAAAA&bo=4AEgAwAAAAADAOc!&rf=viewer_4' width="150px"/>  
-  <img src='http://a3.qpic.cn/psb?/V13ROnLv2MSKxZ/VFQQ.nvsRdAx3O5M4BEiNci2RIX.u3ZocD7pKrlmpgA!/b/dGsAAAAAAAAA&bo=QAHgAQAAAAADAIU!&rf=viewer_4' width="150px"/>  
-  <img src='http://a2.qpic.cn/psb?/V13ROnLv2MSKxZ/asPw3mK*H0MRGfkAsrnmW4Xhte5iNzDebXRc40CXBp0!/b/dHUBAAAAAAAA&bo=4AEgAwAAAAADAOc!&rf=viewer_4' width="150px"/>  
-</div>
+
 
 
 

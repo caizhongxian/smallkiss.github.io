@@ -14,7 +14,6 @@ Android优秀开源项目汇总——个性化控件(View)篇(其他)介绍
 **SeekArc**  
 圆形的 SeekBar  
 项目地址：https://github.com/TriggerTrap/SeekArc  
-![Renderings](http://a3.qpic.cn/psb?/V13ROnLv2MSKxZ/ZRgRR9BKouvnaH1.WrKFzma10pVJ1CVn*DO3lSkkoWI!/b/dHYBAAAAAAAA&bo=cwbMAQAAAAADB5o!&rf=viewer_4)  
 
 <!-- more -->
 
@@ -77,8 +76,6 @@ APP示例：Android开机的图案密码解锁，支付宝的密码解锁
 项目地址：https://github.com/DreaminginCodeZH/PatternLock  
 Demo 地址：https://github.com/DreaminginCodeZH/PatternLock/raw/master/dist/sample.apk  
 APP示例：Android开机的图案密码解锁，支付宝的密码解锁  
-![Renderings](http://a3.qpic.cn/psb?/V13ROnLv2MSKxZ/hTP3NsMQmeagS*WJ2w6.DqY0tSG9uA82NkIp5GDr89k!/b/dGsAAAAAAAAA&bo=HAKbAwAAAAADAKM!&rf=viewer_4)  
-
 
 **RangeBar**  
 类似于SeekBar，不同的是可以选择一个范围内的值而不是单个值  
@@ -128,17 +125,16 @@ Demo地址：[Download Demo](https://github.com/daimajia/AndroidSwipeLayout/rele
 **DynamicCardLayout**  
 在Android中实现的类似Windows8的瓷片布局  
 项目地址：https://github.com/dodola/DynamicCardLayout  
-![Renderings](http://a1.qpic.cn/psb?/V13ROnLv2MSKxZ/0ncntDPC1iZiwkUVwMjB8AFxgf7xr0jq0oOeRcjzV0s!/b/dG8AAAAAAAAA&bo=rgEaAQAAAAADAJE!&rf=viewer_4)  
+
 
 **Emoticons-Keyboard**  
 带表情情符号的自定义键盘  
 项目地址：https://github.com/chiragjain/Emoticons-Keyboard  
-![Renderings](http://a3.qpic.cn/psb?/V13ROnLv2MSKxZ/rWZd15q6no0SCBi*bF3n7vscd6FYuaZSFHdMbdNHcGs!/b/dHYBAAAAAAAA&bo=gAGAAgAAAAADACY!&rf=viewer_4)  
+
 
 **Android Typeface Helper**  
 可以帮你轻松实现自定义字体的库  
 项目地址：https://github.com/norbsoft/android-typeface-helper  
-![Renderings](http://a3.qpic.cn/psb?/V13ROnLv2MSKxZ/wPikSwh119Y3diMc*q2VcjZg9taFs1L9nakr247NTlU!/b/dG4AAAAAAAAA&bo=WAI5AQAAAAADAEc!&rf=viewer_4)  
 
 **Android-Anim-Playground**  
 几个动画效果，其中第二个基于android-svg的绘制效果非常好  
@@ -155,7 +151,6 @@ Demo地址：[Download Demo](https://github.com/daimajia/AndroidSwipeLayout/rele
 **PostOffice**  
 创建 Holo 及 Material Design 样式的 Dialog  
 项目地址：https://github.com/r0adkll/PostOffice  
-![Renderings](http://a3.qpic.cn/psb?/V13ROnLv2MSKxZ/gm*Pgwhe7hZCodRIyp2PRzg6ATBtUTHVp9hkmPfrusM!/b/dIgBAAAAAAAA&bo=aAGAAgAAAAADAM4!&rf=viewer_4)  
 
 **Swipecards**  
 类似Tinder的卡片效果，可以加载图片并动画效果展示，向左滑动表示喜欢，向右表示不喜欢，根据 Kikoso's Swipeable-Cards 改造而来  
@@ -174,13 +169,11 @@ Demo地址：https://play.google.com/store/apps/details?id=fr.tvbarthel.lib.blur
 **range-seek-bar**  
 随机值选取的 SeekBar  
 项目地址：https://github.com/yahoo/android-range-seek-bar  
-![Renderings](http://a2.qpic.cn/psb?/V13ROnLv2MSKxZ/AE48N9uykaKS1AGAIAXFHyhV6MT*qpmCrljcbw6oHe8!/b/dIoBAAAAAAAA&bo=gAJyBAAAAAADANE!&rf=viewer_4)  
 
 **MaterialList**  
 Material Design 风格的 CardView  
 项目地址：https://github.com/dexafree/MaterialList  
 Demo地址：https://play.google.com/store/apps/details?id=com.dexafree.materiallistviewexample  
-![Renderings](http://a2.qpic.cn/psb?/V13ROnLv2MSKxZ/PONJg.R8xtAQw3TgMSdC0fC8ad8nvwdqH6l4RGckruw!/b/dIoBAAAAAAAA&bo=EgTIAQAAAAADAPo!&rf=viewer_4)  
  
 **road-trip**  
 设置path的各种动画效果，以及如何实现复杂路径动画，类似于ios中的指纹注册界面的指纹动画效果  
