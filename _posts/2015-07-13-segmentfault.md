@@ -9,16 +9,11 @@ SyntaxHihglighter: true
 shTheme: shThemeMidnight # shThemeDefault  shThemeDjango  shThemeEclipse  shThemeEmacs  shThemeFadeToGrey  shThemeMidnight  shThemeRDark
 ---
 
+**int a[2] = { 2, 4 };**  
 
-{% highlight C %}
-
-int a[2] = { 2, 4 };
-
-using type1 = int[2];
-using type2 = int(*)[2];
-using type3 = int(&)[2];
-
-{% endhighlight %}
+**using type1 = int[2];**  
+**using type2 = int(*)[2];**  
+**using type3 = int(&)[2];**  
 
 >decltype(a)获得是数组类型
 
