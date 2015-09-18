@@ -104,12 +104,12 @@ APP示例：微信通讯录、小米联系人
 **CustomFastScrollView**  
 ListView快速滑动，同时屏幕中间PopupWindows显示滑动到的item内容或首字母  
 项目地址：https://github.com/nolanlawson/CustomFastScrollViewDemo  
-![Renderings](https://raw.github.com/nolanlawson/CustomFastScrollViewDemo/master/example.png)  
+![Renderings](http://a3.qpic.cn/psb?/V13ROnLv2MSKxZ/t7qlsq1lrh9rpaHKnv9kXxIgZ6t5aKkuMD3lmCGtIq4!/b/dHYBAAAAAAAA&bo=8ACQAQAAAAADAEQ!&rf=viewer_4)  
 
 **Android-ScrollBarPanel**  
 ListView滑动时固定的Panel指示显示在scrollbar旁边  
 项目地址：https://github.com/rno/Android-ScrollBarPanel  
-![Renderings](https://github.com/rno/Android-ScrollBarPanel/raw/master/demo_capture.png)  
+![Renderings](http://a2.qpic.cn/psb?/V13ROnLv2MSKxZ/0CTV.r90RzmKYUTyjNzar6W1ZOMtBPdUeeUEcxHQ.vI!/b/dHUBAAAAAAAA&bo=IAPlAQAAAAADB.U!&rf=viewer_4)  
 
 **SlideExpandableListView**  
 用户点击listView item滑出固定区域，其他item的区域收缩  
@@ -159,7 +159,7 @@ Demo地址：https://play.google.com/store/apps/details?id=de.timroes.android.li
 自动滚动的双列ListView ，两个ListView滚动速度不一致，有视差效果  
 项目地址：https://github.com/jpardogo/ListBuddies  
 Demo地址：https://play.google.com/store/apps/details?id=com.jpardogo.android.listbuddies  
-![Renderings](https://raw.github.com/jpardogo/ListBuddies/master/art/screenshot_listbuddies_2.png)  
+![Renderings](http://a1.qpic.cn/psb?/V13ROnLv2MSKxZ/so72QEaHM2cQrOSDV6N7L4nvRWxf49xSrpu7**3.MeE!/b/dIYBAAAAAAAA&bo=gALoBAAAAAADB0w!&rf=viewer_4)  
 
 **SwipeMenuListView**  
 针对ListView item的侧滑菜单  
@@ -210,7 +210,7 @@ Header 和 Content Item 都可以展开的 ExpandableListview
 支持左滑弹出自定义菜单，右滑删除且允许撤销，同时可以自定义滑动动画时间和滑动触发事件的时机等。   
 项目地址：https://github.com/xyczero/Android-CustomSwipeListView   
 Demo地址：[Download here](http://7u2jsw.com1.z0.glb.clouddn.com/githubCustomSwipeListView.apk)   
-![screenshot](http://7u2jsw.com1.z0.glb.clouddn.com/githubCustomSwipeListview_Set.PNG)   
+![screenshot](http://a3.qpic.cn/psb?/V13ROnLv2MSKxZ/jvJqc*2phcah70VoxzsUHdmQWx8wxU68R4mJNxXw1cs!/b/dHYBAAAAAAAA&bo=eQMWAgAAAAADAEs!&rf=viewer_4)   
 
 
 **Pull-to-Refresh.Rentals-Android**  

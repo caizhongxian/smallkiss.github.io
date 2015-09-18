@@ -32,7 +32,7 @@ Demo项目：https://github.com/diogobernardino/WilliamChart/tree/master/sample
 Demo地址：https://play.google.com/store/apps/details?id=com.xxmassdeveloper.mpchartexample  
 Demo项目：https://github.com/PhilJay/MPAndroidChart/tree/master/MPChartExample  
 在线演示：https://www.youtube.com/watch?v=ufaK_Hd6BpI  
-<img height="300px" src="https://camo.githubusercontent.com/a9eaa5fc7fb6c1e70b22acd09385055e0f5c4fe7/68747470733a2f2f7261772e6769746875622e636f6d2f5068696c4a61792f4d5043686172742f6d61737465722f73637265656e73686f74732f73696d706c6564657369676e5f6c696e656368617274342e706e67" /><br/><img height="300px" src="https://camo.githubusercontent.com/78b4bc4e50e151970961daf56e81c4c0db72d27c/68747470733a2f2f7261772e6769746875622e636f6d2f5068696c4a61792f4d5043686172742f6d61737465722f73637265656e73686f74732f73696d706c6564657369676e5f6261726368617274332e706e67" /><br/><img  src="https://camo.githubusercontent.com/65f51783ec05038730b481ed614b57a94e867d86/68747470733a2f2f7261772e6769746875622e636f6d2f5068696c4a61792f4d5043686172742f6d61737465722f73637265656e73686f74732f626172636861727432642e706e67" /><br/><img src="https://camo.githubusercontent.com/f66a35bf430b12480d3e2ed8e3bc8d7a17db950f/68747470733a2f2f7261772e6769746875622e636f6d2f5068696c4a61792f4d5043686172742f6d61737465722f73637265656e73686f74732f626172636861727433642e706e67" /><br/><img height="300px" src="https://camo.githubusercontent.com/60bd0d71462ad577df775b956944b191e939728a/68747470733a2f2f7261772e6769746875622e636f6d2f5068696c4a61792f4d50416e64726f696443686172742f6d61737465722f73637265656e73686f74732f70696563686172745f686f6c657261646975735f73706163652e706e67" /><br/><img height="300px" src="https://camo.githubusercontent.com/6b254aa699df7f9464967009129c3017de721b77/68747470733a2f2f7261772e6769746875622e636f6d2f5068696c4a61792f4d50416e64726f696443686172742f6d61737465722f73637265656e73686f74732f7363617474657263686172742e706e67" />  
+<img height="300px" src="http://a1.qpic.cn/psb?/V13ROnLv2MSKxZ/wz7stnv*9eswUgP*SUduj4Z.EnPDUiu58.EF.nxUQD8!/b/dG8AAAAAAAAA&bo=sAQwAgAAAAADB6Q!&rf=viewer_4" /><br/><img height="300px" src="http://a3.qpic.cn/psb?/V13ROnLv2MSKxZ/32sf9SsD7e1yrRhIY07mogXcAZJK5jIRpTpGylCzUN8!/b/dHYBAAAAAAAA&bo=sAQqAgAAAAADALk!&rf=viewer_4" /><br/><img  src="http://a2.qpic.cn/psb?/V13ROnLv2MSKxZ/snwR0xBi9FJSGeinw36Cx884v*NOvnQm6XBle.OUVi8!/b/dHUBAAAAAAAA&bo=vAJgAQAAAAADAPo!&rf=viewer_4" /><br/><img src="http://a2.qpic.cn/psb?/V13ROnLv2MSKxZ/qPR6S9wK6yB1d*hFQnSctInMNHnGAw3srgvqfQLB11o!/b/dHUBAAAAAAAA&bo=vAJeAQAAAAADAMQ!&rf=viewer_4" /><br/><img height="300px" src="http://a3.qpic.cn/psb?/V13ROnLv2MSKxZ/AQv04Pphzw2NOvnctqAqHetWz9iLbdB8td5PE25lTW0!/b/dGsAAAAAAAAA&bo=6ANKAQAAAAADAIU!&rf=viewer_4" /><br/><img height="300px" src="http://a3.qpic.cn/psb?/V13ROnLv2MSKxZ/Xw16oGLWWkFNGIQu7W7pXboI8AFCo6eJyaHHo9a7sHo!/b/dHYBAAAAAAAA&bo=gAKLAgAAAAADAC4!&rf=viewer_4" />  
 
 **GraphView**  
 绘制图表和曲线图的View，可用于Android上的曲形图、柱状图、波浪图展示  
@@ -67,11 +67,11 @@ Demo地址：https://play.google.com/store/apps/details?id=lecho.lib.hellocharts
 官网网址：http://www.achartengine.org/  
 APP示例：Wordpress Android，Google Analytics  
 <div>  
-  <img src='http://www.achartengine.org/dimages/average_temperature.png' width="150px"/>  
-  <img src='http://www.achartengine.org/dimages/sales_line_and_area_chart.png' width="150px"/>  
-  <img src='http://www.achartengine.org/dimages/temperature_range_chart.png' width="150px"/>  
-  <img src='http://www.achartengine.org/dimages/combined_chart.png' width="150px"/>  
-  <img src='http://www.achartengine.org/dimages/budget_chart.png' width="150px"/>  
+  <img src='http://a3.qpic.cn/psb?/V13ROnLv2MSKxZ/ljaD4Ja9myAGq8xDBeXhOmLJ3mpSdR3*6lFREuxU5hc!/b/dHYBAAAAAAAA&bo=QAHgAQAAAAADAIU!&rf=viewer_4' width="150px"/>  
+  <img src='http://a3.qpic.cn/psb?/V13ROnLv2MSKxZ/AAxW2kMVd.XaI.HViCh7wltZQDF5sNE*2KaratYCGFc!/b/dIgBAAAAAAAA&bo=QAHgAQAAAAADAIU!&rf=viewer_4' width="150px"/>  
+  <img src='http://a2.qpic.cn/psb?/V13ROnLv2MSKxZ/f4ho7CZ4EAZDmc4p80vZLRsnSB15CHgEILP0Y2TZSDY!/b/dHUBAAAAAAAA&bo=4AEgAwAAAAADAOc!&rf=viewer_4' width="150px"/>  
+  <img src='http://a3.qpic.cn/psb?/V13ROnLv2MSKxZ/VFQQ.nvsRdAx3O5M4BEiNci2RIX.u3ZocD7pKrlmpgA!/b/dGsAAAAAAAAA&bo=QAHgAQAAAAADAIU!&rf=viewer_4' width="150px"/>  
+  <img src='http://a2.qpic.cn/psb?/V13ROnLv2MSKxZ/asPw3mK*H0MRGfkAsrnmW4Xhte5iNzDebXRc40CXBp0!/b/dHUBAAAAAAAA&bo=4AEgAwAAAAADAOc!&rf=viewer_4' width="150px"/>  
 </div>
 
 

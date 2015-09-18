@@ -15,7 +15,7 @@ Android优秀开源项目汇总——个性化控件(View)篇(UI Style)介绍
 **Android FlatUI**  
 Android 扁平化风格的组件，支持一些自定义样式  
 项目地址：https://github.com/eluleci/FlatUI  
-![Renderings](https://camo.githubusercontent.com/590d4a2ac322417b71f83223bd58b83903d58343/68747470733a2f2f7261772e6769746875622e636f6d2f656c756c6563692f466c617455492f6d61737465722f73616d706c652d696d616765732f73686f77636173652e706e67)  
+![Renderings](http://a3.qpic.cn/psb?/V13ROnLv2MSKxZ/Ptbel3btOsJeYYLYm4qvysdRiV9z9sooQ3M.0X48xek!/b/dHYBAAAAAAAA&bo=AASAAgAAAAADAKM!&rf=viewer_4)  
 
 <!-- more -->
 
@@ -48,7 +48,7 @@ Android L 中 Material Design 风格的组件适配到 Android 2.2+
 **Android-Bootstrap**  
 Bootstrap 风格的按钮  
 项目地址：https://github.com/Bearded-Hen/Android-Bootstrap  
-![Renderings](https://raw.github.com/Bearded-Hen/Android-Bootstrap/master/images/device_image.png)  
+![Renderings](http://a3.qpic.cn/psb?/V13ROnLv2MSKxZ/St8X6eyvyiKNZ5r5Nv6JS7nBE280URz97V**DsBSlak!/b/dIgBAAAAAAAA&bo=gAI6BAAAAAADAJk!&rf=viewer_4)  
 
 
 

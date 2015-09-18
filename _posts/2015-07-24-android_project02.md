@@ -16,7 +16,7 @@ Android优秀开源项目汇总——个性化控件(View)篇(ActionBar)介绍
 项目地址：https://github.com/ManuelPeinado/RefreshActionItem  
 Demo地址：https://play.google.com/store/apps/details?id=com.manuelpeinado.refreshactionitem.demo  
 APP示例：The New York Times，DevAppsDirect.  
-![smallkiss](https://camo.githubusercontent.com/46884ee60bb699929890a1a9eed0c2610ca99039/68747470733a2f2f7261772e6769746875622e636f6d2f4d616e75656c5065696e61646f2f52656672657368416374696f6e4974656d2f6d61737465722f6172742f726561646d655f7069632e706e67)
+![smallkiss](http://a2.qpic.cn/psb?/V13ROnLv2MSKxZ/QYGDsx5VCzydBaU1PR81Yb.Vbof5tDba5ySyLoGw.Oo!/b/dHUBAAAAAAAA&bo=DgaAAgAAAAADAK8!&rf=viewer_4)
 
 <!-- more -->
 
@@ -33,7 +33,7 @@ ListView向下滚动逐渐显现的ActionBar
 项目地址：https://github.com/ManuelPeinado/FadingActionBar  
 Demo地址：https://play.google.com/store/apps/details?id=com.manuelpeinado.fadingactionbar.demo  
 APP示例：google music，知乎  
-![smallkiss](https://camo.githubusercontent.com/4fb0e40bdb047be104b2cefddee62923b8a2da37/68747470733a2f2f7261772e6769746875622e636f6d2f4d616e75656c5065696e61646f2f466164696e67416374696f6e4261722f6d61737465722f6172742f726561646d655f7069632e706e67)
+![smallkiss](http://a3.qpic.cn/psb?/V13ROnLv2MSKxZ/KM3tk6*oitw2PASFwRRedZg*4nS63VmJbuRMb8pdWIg!/b/dG4AAAAAAAAA&bo=9QSAAgAAAAADAFY!&rf=viewer_4)
 
 **NotBoringActionBar**  
 google music下拉收缩的ActionBar  
@@ -48,14 +48,14 @@ ActionBarSherlock
 Demo地址：  
 https://play.google.com/store/apps/details?id=com.actionbarsherlock.sample.demos  
 APP示例：太多了。。现在连google都在用  
-![smallkiss](https://camo.githubusercontent.com/b21aae46566b05d5adbb1fa71b88708bc659e120/687474703a2f2f616374696f6e626172736865726c6f636b2e636f6d2f7374617469632f666561747572652e706e67)  
+![smallkiss](http://a3.qpic.cn/psb?/V13ROnLv2MSKxZ/iuAyMbXAdHkiIN6eF6NjWgjsueThB2nKC34pA2F3jvQ!/b/dG4AAAAAAAAA&bo=hAOqAQAAAAADAAk!&rf=viewer_4)  
 
 **GlassActionBar**  
 类似玻璃的有一定透明度的ActionBar  
 项目地址：https://github.com/ManuelPeinado/GlassActionBar  
 Demo地址：https://play.google.com/store/apps/details?id=com.manuelpeinado.glassactionbardemo  
 APP示例：google music  
-![smallkiss](https://camo.githubusercontent.com/01c80fb941f2ba07f6d9d26d80dd4792a79127d4/68747470733a2f2f7261772e6769746875622e636f6d2f4d616e75656c5065696e61646f2f476c617373416374696f6e4261722f6d61737465722f6172742f726561646d655f7069632e706e67)  
+![smallkiss](http://a3.qpic.cn/psb?/V13ROnLv2MSKxZ/8h0O94SjxFwyiaoRFq0cB.mzMQdisfaRQT9gI8PBHVI!/b/dIgBAAAAAAAA&bo=eQOAAgAAAAADB9o!&rf=viewer_4)  
 
 
 

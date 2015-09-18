@@ -14,7 +14,7 @@ Android优秀开源项目汇总——个性化控件(View)篇(ColorPickView)介�
 **ColorPickerPreference**  
 颜色选择器  
 项目地址：https://github.com/attenzione/android-ColorPickerPreference  
-![Renderings](https://github.com/attenzione/android-ColorPickerPreference/raw/master/screen_2.png)  
+![Renderings](http://a3.qpic.cn/psb?/V13ROnLv2MSKxZ/nJmJK4*WuVJzgNDckbCF2w1hQnBszEbNNHK1tgQM.Qk!/b/dHYBAAAAAAAA&bo=4AEgAwAAAAADAOc!&rf=viewer_4)  
 
 <!-- more -->
 
@@ -23,7 +23,6 @@ Android优秀开源项目汇总——个性化控件(View)篇(ColorPickView)介�
 **ColorPickerView**  
 颜色选择器，支持PopupWindows或新的Activity中打开  
 项目地址：https://code.google.com/p/color-picker-view/  
-效果图：![Renderings](http://oi41.tinypic.com/33c6mm8.jpg)  
 
 **HoloColorPicker**  
 颜色选择器  
@@ -34,7 +33,7 @@ Demo地址：https://docs.google.com/file/d/0BwclyDTlLrdXRzVnTGJvTlRfU2s/edit
 颜色选择器（Google Agenda中的样式风格）  
 项目地址：https://github.com/flavienlaurent/colorpicker  
 Demo地址：https://raw.github.com/biboune/colorpicker/master/colorpicker-sample.apk  
-![Renderings](https://camo.githubusercontent.com/a42581e637ca379004855d69e262d85ea966fa35/68747470733a2f2f7261772e6769746875622e636f6d2f6269626f756e652f636f6c6f727069636b65722f6d61737465722f67726170686963732f696d67312e706e67)  
+![Renderings](http://a1.qpic.cn/psb?/V13ROnLv2MSKxZ/mcc8jbpQg6b9Y3*lj1XLAJrTyH8ZZC2mV3eRN9lqDGo!/b/dG8AAAAAAAAA&bo=4AFVAwAAAAADB5U!&rf=viewer_4)  
 
 
 

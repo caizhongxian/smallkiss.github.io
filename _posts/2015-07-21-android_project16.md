@@ -14,7 +14,7 @@ Android优秀开源项目汇总——个性化控件(View)篇(其他)介绍
 **SeekArc**  
 圆形的 SeekBar  
 项目地址：https://github.com/TriggerTrap/SeekArc  
-![Renderings](https://camo.githubusercontent.com/6a5091cb39a50d4c49b8d2f08684cb260db55aa7/68747470733a2f2f7261772e6769746875622e636f6d2f6e65696c643030312f5365656b4172632f6d61737465722f7261772f6172635f7377656570732e706e67)  
+![Renderings](http://a3.qpic.cn/psb?/V13ROnLv2MSKxZ/ZRgRR9BKouvnaH1.WrKFzma10pVJ1CVn*DO3lSkkoWI!/b/dHYBAAAAAAAA&bo=cwbMAQAAAAADB5o!&rf=viewer_4)  
 
 <!-- more -->
 
@@ -63,7 +63,7 @@ Activity切换动画，包括渐变、flip、某个位置进入等等
 **GlowPadView**  
 Android4锁屏界面解锁  
 项目地址：https://github.com/nadavfima/GlowPadView  
-![Renderings](https://raw.github.com/nadavfima/GlowPadView/master/example.png)  
+![Renderings](http://a2.qpic.cn/psb?/V13ROnLv2MSKxZ/4K80I48Qmomf9A7xnEUGqE5CSb.P5pAuFPDU218Gzxg!/b/dHUBAAAAAAAA&bo=gAJyBAAAAAADANE!&rf=viewer_4)  
 
 **android-lockpattern**  
 Android的图案密码解锁  
@@ -77,7 +77,7 @@ APP示例：Android开机的图案密码解锁，支付宝的密码解锁
 项目地址：https://github.com/DreaminginCodeZH/PatternLock  
 Demo 地址：https://github.com/DreaminginCodeZH/PatternLock/raw/master/dist/sample.apk  
 APP示例：Android开机的图案密码解锁，支付宝的密码解锁  
-![Renderings](https://github.com/DreaminginCodeZH/PatternLock/raw/master/image/sample_small.png)  
+![Renderings](http://a3.qpic.cn/psb?/V13ROnLv2MSKxZ/hTP3NsMQmeagS*WJ2w6.DqY0tSG9uA82NkIp5GDr89k!/b/dGsAAAAAAAAA&bo=HAKbAwAAAAADAKM!&rf=viewer_4)  
 
 
 **RangeBar**  
@@ -128,17 +128,17 @@ Demo地址：[Download Demo](https://github.com/daimajia/AndroidSwipeLayout/rele
 **DynamicCardLayout**  
 在Android中实现的类似Windows8的瓷片布局  
 项目地址：https://github.com/dodola/DynamicCardLayout  
-![Renderings](https://github.com/dodola/DynamicCardLayout/blob/master/pic1.png?raw=true)  
+![Renderings](http://a1.qpic.cn/psb?/V13ROnLv2MSKxZ/0ncntDPC1iZiwkUVwMjB8AFxgf7xr0jq0oOeRcjzV0s!/b/dG8AAAAAAAAA&bo=rgEaAQAAAAADAJE!&rf=viewer_4)  
 
 **Emoticons-Keyboard**  
 带表情情符号的自定义键盘  
 项目地址：https://github.com/chiragjain/Emoticons-Keyboard  
-![Renderings](https://github.com/chiragjain/Emoticons-Keyboard/raw/master/s2.png)  
+![Renderings](http://a3.qpic.cn/psb?/V13ROnLv2MSKxZ/rWZd15q6no0SCBi*bF3n7vscd6FYuaZSFHdMbdNHcGs!/b/dHYBAAAAAAAA&bo=gAGAAgAAAAADACY!&rf=viewer_4)  
 
 **Android Typeface Helper**  
 可以帮你轻松实现自定义字体的库  
 项目地址：https://github.com/norbsoft/android-typeface-helper  
-![Renderings](https://camo.githubusercontent.com/b8e7d4f4ab84ff96a3919ea264e2a83aca46e04e/68747470733a2f2f7261772e6769746875622e636f6d2f6e6f7262736f66742f616e64726f69642d74797065666163652d68656c7065722f6d61737465722f726561646d655f73637265656e2e706e67)  
+![Renderings](http://a3.qpic.cn/psb?/V13ROnLv2MSKxZ/wPikSwh119Y3diMc*q2VcjZg9taFs1L9nakr247NTlU!/b/dG4AAAAAAAAA&bo=WAI5AQAAAAADAEc!&rf=viewer_4)  
 
 **Android-Anim-Playground**  
 几个动画效果，其中第二个基于android-svg的绘制效果非常好  
@@ -155,7 +155,7 @@ Demo地址：[Download Demo](https://github.com/daimajia/AndroidSwipeLayout/rele
 **PostOffice**  
 创建 Holo 及 Material Design 样式的 Dialog  
 项目地址：https://github.com/r0adkll/PostOffice  
-![Renderings](https://github.com/r0adkll/PostOffice/raw/master/images/po_2.png)  
+![Renderings](http://a3.qpic.cn/psb?/V13ROnLv2MSKxZ/gm*Pgwhe7hZCodRIyp2PRzg6ATBtUTHVp9hkmPfrusM!/b/dIgBAAAAAAAA&bo=aAGAAgAAAAADAM4!&rf=viewer_4)  
 
 **Swipecards**  
 类似Tinder的卡片效果，可以加载图片并动画效果展示，向左滑动表示喜欢，向右表示不喜欢，根据 Kikoso's Swipeable-Cards 改造而来  
@@ -174,13 +174,13 @@ Demo地址：https://play.google.com/store/apps/details?id=fr.tvbarthel.lib.blur
 **range-seek-bar**  
 随机值选取的 SeekBar  
 项目地址：https://github.com/yahoo/android-range-seek-bar  
-![Renderings](https://github.com/yahoo/android-range-seek-bar/raw/master/demo_screenshot.png)  
+![Renderings](http://a2.qpic.cn/psb?/V13ROnLv2MSKxZ/AE48N9uykaKS1AGAIAXFHyhV6MT*qpmCrljcbw6oHe8!/b/dIoBAAAAAAAA&bo=gAJyBAAAAAADANE!&rf=viewer_4)  
 
 **MaterialList**  
 Material Design 风格的 CardView  
 项目地址：https://github.com/dexafree/MaterialList  
 Demo地址：https://play.google.com/store/apps/details?id=com.dexafree.materiallistviewexample  
-![Renderings](https://camo.githubusercontent.com/b71bb064807465b7c9132d7f6072e2064f01fb85/687474703a2f2f692e696d6775722e636f6d2f454e78554741772e706e67)  
+![Renderings](http://a2.qpic.cn/psb?/V13ROnLv2MSKxZ/PONJg.R8xtAQw3TgMSdC0fC8ad8nvwdqH6l4RGckruw!/b/dIoBAAAAAAAA&bo=EgTIAQAAAAADAPo!&rf=viewer_4)  
  
 **road-trip**  
 设置path的各种动画效果，以及如何实现复杂路径动画，类似于ios中的指纹注册界面的指纹动画效果  

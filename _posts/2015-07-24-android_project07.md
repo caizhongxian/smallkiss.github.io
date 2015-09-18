@@ -39,7 +39,7 @@ Demo地址：https://play.google.com/store/apps/details?id=net.yscs.android.squa
 **HoloCircularProgressBar**  
 Android4.1 时钟App样式  
 项目地址：https://github.com/passsy/android-HoloCircularProgressBar  
-![Renderings](https://raw.github.com/passsy/android-HoloCircularProgressBar/master/raw/screenshot1.png)  
+![Renderings](http://a3.qpic.cn/psb?/V13ROnLv2MSKxZ/JVmxGYgrKUddKKsaxzCZTQAHTsbzleCjsSrL6kdnkqU!/b/dIgBAAAAAAAA&bo=gAIrBAAAAAADAIg!&rf=viewer_4)  
 APP示例：Android4.1时钟App  
 
 **CircularProgressDrawable**  
@@ -65,7 +65,7 @@ APP示例：Android4.1时钟App
 **Android-RoundCornerProgressBar**  
 Android 圆角 ProgressBar，可自定义圆角颜色和半径，包括带 Icon 和不带 Icon 两种类型。  
 项目地址：https://github.com/akexorcist/Android-RoundCornerProgressBar  
-![Renderings](https://raw.githubusercontent.com/akexorcist/Android-RoundCornerProgressBar/master/image/screenshot_02.png)  
+![Renderings](http://a2.qpic.cn/psb?/V13ROnLv2MSKxZ/Szl4H2tRvVOhFQAgmz70zW1BsDPtzfy4JyHxWbJnbJg!/b/dHUBAAAAAAAA&bo=0AKrAQAAAAADB1o!&rf=viewer_4)  
 
 **circular-progress-button**  
 带进度显示的Button  

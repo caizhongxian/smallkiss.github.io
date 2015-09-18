@@ -36,9 +36,9 @@ APP示例：Foursquare, LinkedIn, Zappos, Rdio, Evernote Food, Plume, VLC for An
 支持类似Path的左下角动画旋转菜单及横向划出菜单、圆心弹出菜单  
 项目地址：https://github.com/daCapricorn/ArcMenu  
 APP示例：Path  
-![Renderings](https://camo.githubusercontent.com/1fcc783d2e784f7db24feb2b6857f4aa43fc685b/68747470733a2f2f646c2e64726f70626f782e636f6d2f752f31313336393638372f70726576696577302e706e67)
-![smallkiss](https://camo.githubusercontent.com/7c3d707678e6aa187cdf2ee3ac701d77fba92f48/68747470733a2f2f646c2e64726f70626f782e636f6d2f752f31313336393638372f70726576696577312e706e67)
-![smallkiss](https://camo.githubusercontent.com/a5050578e15ff2e22deb2c0249b50c69f8f1ec1a/68747470733a2f2f646c2e64726f70626f782e636f6d2f752f31313336393638372f7261796d656e752e706e67)  
+![Renderings](http://a2.qpic.cn/psb?/V13ROnLv2MSKxZ/eSTKduHIiq6o5HOGnXwyEHF7ocqu3blu6d9pNP2BT4w!/b/dIcBAAAAAAAA&bo=4QDKAAAAAAADAA4!&rf=viewer_4)
+![smallkiss](http://a3.qpic.cn/psb?/V13ROnLv2MSKxZ/8xXSw*mjkGwmizfTChwjKv9WcEqAMHc2iS1V2zezexU!/b/dG4AAAAAAAAA&bo=8QDKAAAAAAADAB4!&rf=viewer_4)
+![smallkiss](http://a3.qpic.cn/psb?/V13ROnLv2MSKxZ/fpCKsBKFcaO.i.TjtrIEUYfFchOhDmU7QWOGne3oX9U!/b/dGsAAAAAAAAA&bo=JwE6AAAAAAADADk!&rf=viewer_4)  
 
 **android-satellite-menu**  
 类似Path的左下角动画旋转菜单  
@@ -77,7 +77,7 @@ Navigation Drawer的一个简单实现，滑动并以折叠方式打开菜单
 项目地址：https://github.com/mmBs/NavigationDrawerSI  
 Demo地址：https://play.google.com/store/apps/details?id=mmbialas.pl.navigationdrawersi  
 APP示例：https://play.google.com/store/apps/details?id=mmbialas.pl.navigationdrawersi  
-<img height="500px" src="https://raw.githubusercontent.com/mmBs/NavigationDrawerSI/master/images/screens.png" />  
+<img height="500px" src="http://a3.qpic.cn/psb?/V13ROnLv2MSKxZ/oL5OFxxGPDEORr24WW0979oVpXA4d.lx8giiOO2YU4U!/b/dHYBAAAAAAAA&bo=gALCAgAAAAADAGc!&rf=viewer_4" />  
 
 DragLayout  
 使用support.v4包下的ViewDragHelper实现QQ5.0侧滑  
@@ -94,7 +94,7 @@ Material Design 形式的展开折叠Icon
 Floating Action Button  
 悬浮的圆形菜单栏，支持组建滚动时自动隐藏及其他设置  
 项目地址：https://github.com/shamanland/floating-action-button  
-![Renderings](https://camo.githubusercontent.com/c679cb23cf62830b0d4037e17cf2d8d4090bc3c8/68747470733a2f2f64726976652e676f6f676c652e636f6d2f75633f69643d3042776830534e4c506d6a5142526b466f5a4530345646393051324d)  
+![Renderings](http://a2.qpic.cn/psb?/V13ROnLv2MSKxZ/vQ7DggT8bZgNMGJTxb.Nu99M5Ui5n5.LGcOPRToAbZs!/b/dIoBAAAAAAAA&bo=.AC4AQAAAAADAGQ!&rf=viewer_4)  
   
 
 Side-Menu.Android  

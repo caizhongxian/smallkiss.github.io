@@ -17,7 +17,7 @@ Android优秀开源项目汇总——个性化控件(View)篇(TimeView)介绍
 提供日期、数字、时间（数字方式和钟表方式）、重复周期（闹钟的周期重复）、HMS（时、分、秒）的选择，支持以DialogFragment的弹窗选择  
 项目地址：https://github.com/derekbrameyer/android-betterpickers  
 Demo地址：https://play.google.com/store/apps/details?id=com.doomonafireball.betterpickers.sample
-![Renderings](https://camo.githubusercontent.com/897ae3c71b49c4366565f3480719647687b1804a/68747470733a2f2f7261772e6769746875622e636f6d2f646572656b6272616d657965722f616e64726f69642d6265747465727069636b6572732f6d61737465722f73616d706c652f696d61676572792f7765625f666561747572655f677261706869632e706e67)  
+![Renderings](http://a2.qpic.cn/psb?/V13ROnLv2MSKxZ/jm.Rv9MxV6jB7lOTiKGo3D25WQuSwctlNrUEJ64LV*g!/b/dIoBAAAAAAAA&bo=AAT0AQAAAAADB9M!&rf=viewer_4)  
 
 <!-- more -->
 
@@ -32,7 +32,7 @@ Demo地址：https://github.com/Trinea/TrineaDownload/blob/master/times-square-d
 日历  
 项目地址：https://github.com/kenumir/android-calendar-card  
 Demo地址：https://play.google.com/store/apps/details?id=com.wt.calendarcardsample  
-![Renderings](https://raw.github.com/kenumir/android-calendar-card/master/calendar-card-sample/_work/device-2013-10-12-151801.png)  
+![Renderings](http://a1.qpic.cn/psb?/V13ROnLv2MSKxZ/ZD6lBN833WFDrVhSyrLohTzv64KdXSZ36Iul7U7sk0g!/b/dG8AAAAAAAAA&bo=QAHgAQAAAAADAIU!&rf=viewer_4)  
 
 **AndroidWheel**  
 Android Wheel支持城市、多种日期时间、密码、图片  
@@ -47,12 +47,12 @@ Android Wheel支持城市、多种日期时间、密码、图片
 日期选择部件(Google Agenda的样式风格)  
 项目地址：https://github.com/flavienlaurent/datetimepicker  
 Demo地址：https://raw.github.com/biboune/datetimepicker/master/datetimepicker-sample.apk  
-![Renderings](https://camo.githubusercontent.com/493edeea3eb553ad0d0b121dbead0d7ec6a858f2/68747470733a2f2f7261772e6769746875622e636f6d2f6269626f756e652f6461746574696d657069636b65722f6d61737465722f67726170686963732f696d67312e706e67)  
+![Renderings](http://a3.qpic.cn/psb?/V13ROnLv2MSKxZ/PuNBtgyeMPXo.iN4SLLnDsgJnXEjKq75NOFcxh5Z6yo!/b/dG4AAAAAAAAA&bo=9QSAAgAAAAADAFY!&rf=viewer_4)  
 
 **Android Week View**  
 日期控件，支持周，天视图，支持自定义样式  
 项目地址：https://github.com/alamkanak/Android-Week-View  
-![Renderings](https://github.com/alamkanak/Android-Week-View/blob/master/images/screen-shot.png)  
+![Renderings](http://a2.qpic.cn/psb?/V13ROnLv2MSKxZ/Q98aET907Rpy6z1K8p51DGZ3tHGYqsgBB.YhjM2THik!/b/dHUBAAAAAAAA&bo=2AI8AgAAAAADB8Y!&rf=viewer_4)  
   
 **ScrollerCalendar**  
 实现每行显示一年的12个月份的RecyclerView年历  

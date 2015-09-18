@@ -44,7 +44,7 @@ Demo地址：https://github.com/markushi/android-circlebutton/blob/master/exampl
 iOS’s segmented controls的实现  
 项目地址：https://github.com/vinc3m1/android-segmentedradiobutton  
 Demo地址：https://github.com/thquinn/DraggableGridView/blob/master/bin/DraggableGridViewSample.apk?raw=true  
-![Renderings](https://raw.github.com/vinc3m1/android-segmentedradiobutton/master/screens/segmentedradio.png)  
+![Renderings](http://a2.qpic.cn/psb?/V13ROnLv2MSKxZ/3ZRtM6APuUQ1*mor1lyhTkMLA4LM.yJFbE2.Kc7Haxk!/b/dHUBAAAAAAAA&bo=QAGpAAAAAAADAM0!&rf=viewer_4)  
 
 **Chips EditText Library**  
 支持国家名字联想从而选择显示该国国旗的EditText，实际就是通过SpannableStringBuilder实现  
@@ -72,7 +72,7 @@ Demo地址：https://github.com/makovkastar/FloatingActionButton/tree/master/
 **Calligraphy**  
 让我们在android开发中使用自定义字体变得更加简单  
 项目地址 ：https://github.com/chrisjenx/Calligraphy  
-![Renderings](https://github.com/chrisjenx/Calligraphy/raw/master/screenshot.png)  
+![Renderings](http://a2.qpic.cn/psb?/V13ROnLv2MSKxZ/N26l1DicO71atj6evfHpGf*2mHYI3MtAt4g1FtslnUw!/b/dHUBAAAAAAAA&bo=xgHKAgAAAAADACo!&rf=viewer_4)  
 
 **CreditsRoll**  
 类似星球大战字幕效果的TextView  
@@ -95,27 +95,26 @@ Android表单验证
 文字像 Mexican beans 一样跳动  
 项目地址：https://github.com/frakbot/JumpingBeans  
 Demo地址：http://play.google.com/store/apps/details?id=net.frakbot.jumpingbeans.demo  
-![Renderings](https://github.com/frakbot/JumpingBeans/blob/master/art/jumpingdots.gif)  
 
 **FancyButtons**  
 一个不用图片就可以帮助我们创建出漂亮按钮的库。  
 项目地址：https://github.com/medyo/fancybuttons  
 Demo地址：https://github.com/medyo/fancybuttons/tree/master/samples  
-![Renderings](https://camo.githubusercontent.com/8c5800ef180f69d302237132906737bf71a52caf/68747470733a2f2f7261772e6769746875622e636f6d2f6d6564796f2f66616e6379627574746f6e732f6d61737465722f73637265656e73686f74732f66616e63792e706e67)
-![Renderings](https://raw.githubusercontent.com/medyo/fancybuttons/master/screenshots/fancy2.png)  
+![Renderings](http://a3.qpic.cn/psb?/V13ROnLv2MSKxZ/4*78sE4cgdhdnuROSQTfMTulQMGcc0yoNajNK9xJx6I!/b/dG4AAAAAAAAA&bo=LAEVAgAAAAADAB8!&rf=viewer_4)
+![Renderings](http://a2.qpic.cn/psb?/V13ROnLv2MSKxZ/ERUJYQM.Gqeh2CwtzqRKR1z49b6zvsG0phJkcD9ltoo!/b/dIoBAAAAAAAA&bo=LAEVAgAAAAADAB8!&rf=viewer_4)  
 
 **Android-RobotoTextView**  
 一个实现了所有Roboto字体的TextView，包括新出的Roboto Slab字体。  
 项目地址：https://github.com/johnkil/Android-RobotoTextView  
 Demo地址：http://play.google.com/store/apps/details?id=com.devspark.robototextview  
 Demo项目：https://github.com/johnkil/Android-RobotoTextView/tree/master/robototextview-sample  
-<img height="400px" src="https://camo.githubusercontent.com/f058c810055e1ff12fa995346059ad399d9c0f95/687474703a2f2f6934362e74696e797069632e636f6d2f6239646736392e706e67" />>  
+<img height="400px" src="http://a1.qpic.cn/psb?/V13ROnLv2MSKxZ/qXOcnrt6ic4pSE83xwqXrKr6okZezQly0HL283Zow*s!/b/dIYBAAAAAAAA&bo=gAJyBAAAAAADANE!&rf=viewer_4" />>  
 
 **Android-WizardPager**  
 一个表单向导库  
 项目地址：https://github.com/romannurik/android-wizardpager  
 Demo项目：https://github.com/str4d/android-wizardpager/tree/textfield  
-<img height="400px" src="https://camo.githubusercontent.com/685a1eee3b9b7eb6a0409061031654ea7d6b0b17/68747470733a2f2f6c68352e676f6f676c6575736572636f6e74656e742e636f6d2f2d664944555a3074514373632f554a4e4c6a6e504c5447492f41414141414141416f4f382f784b63654f61746c6a50302f773431332d683638392d6e6f2f322e706e67" />  
+<img height="400px" src="http://a3.qpic.cn/psb?/V13ROnLv2MSKxZ/oq7ozZJAjdhjHCF9O42TOkB.KNkcCYXc85uEml*pfP0!/b/dIgBAAAAAAAA&bo=nQGxAgAAAAADAAo!&rf=viewer_4" />  
 
 **RippleView**  
 一个实现了 Android L 上才引入的点击按钮后出现水波纹效果的按钮  
@@ -127,7 +126,7 @@ Demo项目：https://github.com/siriscac/RippleView/tree/master/RippleViewExampl
 一个实现Material Design Ripple效果的库，支持Android API 9+以上版本。  
 项目地址：https://github.com/traex/RippleEffect  
 Demo项目：https://github.com/traex/RippleEffect/tree/master/sample  
-![Renderings](https://raw.githubusercontent.com/traex/RippleEffect/master/header.png)  
+![Renderings](http://a2.qpic.cn/psb?/V13ROnLv2MSKxZ/tpbRMuQ2lGE7RVDxwE5AAmbHiJvG3pjO5TDdbty.U0A!/b/dIoBAAAAAAAA&bo=IAOQAQAAAAADAJc!&rf=viewer_4)  
 
 **Android Floating Label Widgets**  
 包含一系列控件，这些控件特点是：有默认值，当值不为空时默认值浮动到上面变为提示  
@@ -142,7 +141,7 @@ EditText 的 Material Design 实现。包含 [Google Material Design Spec](http:
 **MultiActionTextView**  
 可以分别给TextView中的某几个字设置点击事件的TextView  
 项目地址：https://github.com/ajaysahani/MultiActionTextView  
-![Renderings](https://camo.githubusercontent.com/1223e37d084e84ec0e22a1b27e7513661d0e1b39/687474703a2f2f692e696d6775722e636f6d2f773934576f53582e706e67)  
+![Renderings](http://a1.qpic.cn/psb?/V13ROnLv2MSKxZ/qXOcnrt6ic4pSE83xwqXrKr6okZezQly0HL283Zow*s!/b/dIYBAAAAAAAA&bo=gAJyBAAAAAADB9Y!&rf=viewer_4)  
 
 **ToggleButton**  
 状态切换的 Button，类似 iOS，用 View 实现  
